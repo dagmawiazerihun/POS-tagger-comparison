@@ -1,0 +1,7353 @@
+word: gutenberg
+tags: claws: ['NNP'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: adventures
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: tom
+tags: claws: ['NNP'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'NNP', 'VBP']
+
+word: ebook
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: is
+tags: claws: ['VBZ'], nltk: ['NNP', 'VBZ'], stanford: ['NN', 'VBZ']
+
+word: give
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: author
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: language
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: character
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: produced
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: contents
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNP']
+
+word: chapter
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP', 'VBP']
+
+word: innocents
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNPS', 'NNS']
+
+word: omission
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: mental
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['JJ', 'NNP']
+
+word: treaty
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NNP']
+
+word: scenes
+tags: claws: ['NNS'], nltk: ['NNPS', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: solemn
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: subjects
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: xi
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['CD']
+
+word: muff
+tags: claws: ['NN', 'NNP'], nltk: ['NN', 'NNP'], stanford: ['NNP']
+
+word: conscience
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: pirates
+tags: claws: ['NNS'], nltk: ['NNP', 'NNPS', 'NNS', 'VBZ'], stanford: ['NNPS', 'NNS']
+
+word: war
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: memories
+tags: claws: ['NNS'], nltk: ['NNPS', 'NNS'], stanford: ['NNP', 'NNPS', 'NNS']
+
+word: point
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: revenge
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: truth
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: becky
+tags: claws: ['NNP'], nltk: ['JJ', 'NNP', 'NNS'], stanford: ['NNP']
+
+word: nobility
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: lengthy
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['NNP']
+
+word: boy
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP', 'SYM', 'UH', 'VBZ'], stanford: ['NN', 'NNP', 'UH']
+
+word: vengeance
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: confidence
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: old
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: ghosts
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS', 'VBZ'], stanford: ['NNPS', 'NNS']
+
+word: luck
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: 's
+tags: claws: ['VBZ'], stanford: ['POS', 'PRP', 'VBZ']
+
+word: widow
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: story
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: new
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: way
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: enemy
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: quarters
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNPS', 'NNS']
+
+word: fate
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: compare
+tags: claws: ['VB'], nltk: ['NNP'], stanford: ['VB']
+
+word: expedition
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: awful
+tags: claws: ['JJ'], nltk: ['IN', 'JJ', 'NN', 'NNP'], stanford: ['JJ']
+
+word: snug
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NN', 'NNP']
+
+word: reception
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: illustrations
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNPS']
+
+word: home
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'RB'], stanford: ['NN', 'NNP', 'RB']
+
+word: afraid
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNP', 'VBD', 'VBN'], stanford: ['JJ']
+
+word: business
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN', 'NNP']
+
+word: cat
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'SYM', 'VBP'], stanford: ['NN']
+
+word: toys
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNP', 'NNS']
+
+word: amusement
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN', 'NNP']
+
+word: contemplating
+tags: claws: ['VBG'], nltk: ['NNP', 'VBG'], stanford: ['NNP', 'VBG']
+
+word: youth
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: boyhood
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: church
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'NNP']
+
+word: necessities
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNPS']
+
+word: hero
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: choir
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: side
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VB'], stanford: ['JJ', 'NN', 'NNP']
+
+word: sid
+tags: claws: ['NNP'], nltk: ['NN', 'NNP'], stanford: ['NNP']
+
+word: hopkins
+tags: claws: ['NNP'], nltk: ['NNP', 'NNS'], stanford: ['NNP']
+
+word: vain
+tags: claws: ['JJ'], nltk: ['NN', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: tail
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: piece
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: woods
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNP', 'NNS']
+
+word: robin
+tags: claws: ['NNP'], nltk: ['NNP', 'VBN'], stanford: ['NNP']
+
+word: mode
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: egress
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: effort
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: prayer
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VB'], stanford: ['NN']
+
+word: graveyard
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: suspicious
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['JJ', 'NNP']
+
+word: incident
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: coils
+tags: claws: ['NNS'], nltk: ['NNP'], stanford: ['NNPS']
+
+word: information
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: life
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: pirate
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: pleasant
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: mysterious
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: writing
+tags: claws: ['NNP'], nltk: ['NN', 'NNP', 'VBG'], stanford: ['NN', 'VBG']
+
+word: river
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'RB'], stanford: ['NN', 'NNP']
+
+word: lessons
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNPS', 'NNS']
+
+word: egg
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: looking
+tags: claws: ['VBG'], nltk: ['NNP', 'VBG'], stanford: ['VBG']
+
+word: knife
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'NNS', 'VBD'], stanford: ['NN', 'NNP']
+
+word: terrible
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['JJ', 'NNP']
+
+word: moment
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: remember
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: flirtation
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: counter-irritation
+tags: claws: ['NN'], stanford: ['NNP']
+
+word: discovery
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: school
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: literature
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: examination
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: exhibition
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: authors
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNPS']
+
+word: dilemma
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: house
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: cadet
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: happy
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['JJ', 'NNP']
+
+word: vacation
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: prisoner
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: court
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: room
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: detective
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: dreams
+tags: claws: ['NNS'], nltk: ['NN', 'NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: conference
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: poor
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: salvation
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NNP']
+
+word: no.
+tags: claws: ['NN'], stanford: ['NN', 'NNP']
+
+word: duty
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: rousing
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: act
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'NNP', 'VB', 'VBP']
+
+word: town
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: questions
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: vampires
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNPS']
+
+word: wedding
+tags: claws: ['NN'], nltk: ['NNP', 'VBG'], stanford: ['NN']
+
+word: cake
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: terror
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: daylight
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'VBN'], stanford: ['NN', 'NNP']
+
+word: receive
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: man
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP', 'UH']
+
+word: statement
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: society
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: boys
+tags: claws: ['NNS'], nltk: ['NN', 'NNP', 'NNS', 'VBP', 'VBZ'], stanford: ['NNPS', 'NNS']
+
+word: drawn
+tags: claws: ['VBN'], nltk: ['NN', 'VBN'], stanford: ['VBN']
+
+word: knew
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'VB', 'VBD'], stanford: ['VBD']
+
+word: prevalent
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: children
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: girls
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: enterprises
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: lady
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN']
+
+word: spectacles
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: heart
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: lay
+tags: claws: ['VBD'], nltk: ['NN', 'VB', 'VBD', 'VBN', 'VBP'], stanford: ['JJ', 'VB', 'VBD', 'VBP']
+
+word: get
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: lifted
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: look
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'NNS', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: aunt
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'NNP']
+
+word: know
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: said
+tags: claws: ['VBD', 'VBN'], nltk: ['NNP', 'VBD'], stanford: ['NNP', 'VBD', 'VBN']
+
+word: alone
+tags: claws: ['JJ'], nltk: ['RB', 'VBZ'], stanford: ['JJ', 'RB']
+
+word: lad
+tags: claws: ['NN'], nltk: ['FW', 'JJ', 'NN', 'VBZ'], stanford: ['NN']
+
+word: high
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'VBP'], stanford: ['JJ', 'RB']
+
+word: fools
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: goodness
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: lord
+tags: claws: ['NNP'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: spile
+tags: claws: ['NN'], nltk: ['IN', 'VB'], stanford: ['VB', 'VBP']
+
+word: child
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: book
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: got
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'NNP', 'VBD', 'VBN'], stanford: ['VB', 'VBD', 'VBN', 'VBP']
+
+word: scripture
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: reckon
+tags: claws: ['VB'], nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: southwestern
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['NNP']
+
+word: hard
+tags: claws: ['JJ'], nltk: ['JJ', 'RB', 'VB'], stanford: ['JJ', 'RB']
+
+word: brother
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: supper
+tags: claws: ['NN'], nltk: ['JJR', 'NN'], stanford: ['NN']
+
+word: powerful
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: bit
+tags: claws: ['NN'], nltk: ['NN', 'RB'], stanford: ['NN']
+
+word: suspicion
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: see
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['UH', 'VB', 'VBP']
+
+word: sewed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: made
+tags: claws: ['VBD', 'VBN'], nltk: ['NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: sure
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'RB', 'VBP'], stanford: ['JJ', 'RB', 'UH']
+
+word: forgive
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: sorry
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ']
+
+word: glad
+tags: claws: ['JJ'], nltk: ['FW', 'JJ', 'NN', 'VB', 'VBN', 'VBP'], stanford: ['JJ']
+
+word: bound
+tags: claws: ['VBN'], nltk: ['IN', 'NN', 'VBN', 'VBP'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: needle
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: village
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: negro
+tags: claws: ['NN'], nltk: ['IN', 'JJ', 'NN'], stanford: ['JJ', 'NN']
+
+word: consisted
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: peculiar
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: strode
+tags: claws: ['VBD'], nltk: ['VB', 'VBD'], stanford: ['VBD']
+
+word: street
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'NNP']
+
+word: long
+tags: claws: ['JJ'], nltk: ['JJ', 'RB', 'VB'], stanford: ['JJ', 'RB']
+
+word: shabby
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: dainty
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: shoes
+tags: claws: ['NNS'], nltk: ['NNS', 'VBN'], stanford: ['NNS']
+
+word: bright
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: ate
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VB', 'VBP'], stanford: ['VBD']
+
+word: splendid
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: hand
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'VB']
+
+word: tied
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: hat
+tags: claws: ['NN'], nltk: ['NN', 'NNS', 'WP'], stanford: ['NN']
+
+word: liar
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: go
+tags: claws: ['NN', 'VB'], nltk: ['NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: stood
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: drew
+tags: claws: ['VBD'], nltk: ['NN', 'VBD'], stanford: ['VBD']
+
+word: toe
+tags: claws: ['NN'], nltk: ['IN', 'NN'], stanford: ['NN']
+
+word: jingo
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['FW']
+
+word: took
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: struck
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: tore
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'RB', 'VBD', 'VBG'], stanford: ['VBD', 'VBN']
+
+word: ran
+tags: claws: ['VBD'], nltk: ['NN', 'VB', 'VBD'], stanford: ['VBD']
+
+word: antelope
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NNS']
+
+word: held
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: vulgar
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: young
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: music
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: appeared
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: topmost
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJS']
+
+word: insignificant
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: came
+tags: claws: ['VBD'], nltk: ['NNP', 'VBD'], stanford: ['VBD']
+
+word: gals
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: hateful
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: say
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['UH', 'VB', 'VBP']
+
+word: shook
+tags: claws: ['VBD'], nltk: ['NN', 'VBD', 'VBP'], stanford: ['VBD']
+
+word: missis
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNS']
+
+word: tole
+tags: claws: ['NN'], nltk: ['VB', 'VBD'], stanford: ['VB', 'VBD']
+
+word: git
+tags: claws: ['NN'], nltk: ['JJ', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: tell
+tags: claws: ['VB'], nltk: ['IN', 'NN', 'NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: put
+tags: claws: ['VBD', 'VBN'], nltk: ['VB', 'VBD', 'VBN', 'VBP'], stanford: ['VB', 'VBD', 'VBN', 'VBP']
+
+word: planned
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['NNP', 'VBD', 'VBN']
+
+word: pure
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: returned
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: hopeless
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: ben
+tags: claws: ['NNP'], nltk: ['NN', 'NNP', 'VBP'], stanford: ['IN', 'NN', 'NNP', 'VB', 'VBN', 'VBP']
+
+word: very
+tags: claws: ['JJ'], nltk: ['NN', 'RB'], stanford: ['JJ', 'RB']
+
+word: starboard
+tags: claws: ['NN'], nltk: ['VB'], stanford: ['JJ']
+
+word: pomp
+tags: claws: ['NN'], nltk: ['NN', 'NNS'], stanford: ['NN']
+
+word: big
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: sir
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP', 'RB', 'VBD'], stanford: ['NN', 'NNP']
+
+word: stiffened
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: chow
+tags: claws: ['NNP'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: right
+tags: claws: ['JJ', 'NN'], nltk: ['JJ', 'NN', 'NNP', 'RB', 'VB', 'VBD', 'VBP'], stanford: ['JJ', 'NN', 'RB', 'UH']
+
+word: let
+tags: claws: ['VB', 'VBD', 'VBN'], nltk: ['NN', 'NNP', 'VB', 'VBD', 'VBP'], stanford: ['VB', 'VBD', 'VBN', 'VBP']
+
+word: left
+tags: claws: ['JJ', 'VBD', 'VBN'], nltk: ['JJ', 'NN', 'NNS', 'VBD', 'VBN'], stanford: ['JJ', 'NN', 'VBD', 'VBN']
+
+word: stop
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: come
+tags: claws: ['VB', 'VBN'], nltk: ['NN', 'NNP', 'VB', 'VBN', 'VBP'], stanford: ['VB', 'VBD', 'VBN', 'VBP']
+
+word: lively
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: sh't
+tags: claws: ['NNP'], stanford: ['NN']
+
+word: s'h't
+tags: claws: ['NNP'], stanford: ['NN']
+
+word: stared
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: resumed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: swept
+tags: claws: ['VBD'], nltk: ['NN', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: considered
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: honest
+tags: claws: ['JJ'], nltk: ['JJ', 'JJS', 'NN', 'PRP', 'VB'], stanford: ['JJ']
+
+word: lemme
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VBZ']
+
+word: kite
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP', 'SYM'], stanford: ['NN']
+
+word: things
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: law
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: philosopher
+tags: claws: ['NN'], nltk: ['RB'], stanford: ['NN']
+
+word: money
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: place
+tags: claws: ['NN'], nltk: ['', 'NN', 'NNP'], stanford: ['NN', 'NNP', 'VB']
+
+word: library
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: balmy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: asleep
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'RB'], stanford: ['JJ']
+
+word: thought
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'NN', 'NNP', 'VBD', 'VBN', 'VBP'], stanford: ['NN', 'NNP', 'VBD', 'VBN']
+
+word: deserted
+tags: claws: ['VBN'], nltk: ['JJ', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: recoated
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBN']
+
+word: overcome
+tags: claws: ['VBN'], nltk: ['JJ'], stanford: ['VBN']
+
+word: splendor
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: delivered
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: handy
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ']
+
+word: settled
+tags: claws: ['VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: led
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: met
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: friend
+tags: claws: ['NN'], nltk: ['NN', 'VBP'], stanford: ['NN']
+
+word: homeward
+tags: claws: ['JJ'], nltk: ['IN', 'NN', 'RB'], stanford: ['NN', 'RB']
+
+word: girl
+tags: claws: ['NN'], nltk: ['NN', 'NNS'], stanford: ['NN']
+
+word: behold
+tags: claws: ['VB'], nltk: ['NN', 'VB'], stanford: ['UH']
+
+word: confessed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: dangerous
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: straw
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: pliant
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: tried
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: rapped
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: stepped
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: kitchen
+tags: claws: ['NN'], nltk: ['FW', 'NN'], stanford: ['NN']
+
+word: broke
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: silent
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ']
+
+word: discipline
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: forbade
+tags: claws: ['VBD'], nltk: ['NN', 'VBD'], stanford: ['VBD']
+
+word: pictured
+tags: claws: ['VBD'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: wall
+tags: claws: ['NN'], nltk: ['NN', 'VBP'], stanford: ['NN']
+
+word: worked
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: intrude
+tags: claws: ['VB'], nltk: ['NN'], stanford: ['VB']
+
+word: sacred
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: alive
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: darkness
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VB'], stanford: ['NN']
+
+word: desolate
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: outer
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: wishing
+tags: claws: ['VBG'], nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: nature
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: dismal
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: threadbare
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: unknown
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: ear
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: candle
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'VB'], stanford: ['NN']
+
+word: window
+tags: claws: ['NN'], nltk: ['NN', 'VB', 'VBZ'], stanford: ['NN']
+
+word: homeless
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: untimely
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: prone
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: sprang
+tags: claws: ['VBD'], nltk: ['NN', 'VBD', 'VBP'], stanford: ['VBD']
+
+word: vague
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: tranquil
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: work
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'NNP', 'VB', 'VBP']
+
+word: lesson
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: bent
+tags: claws: ['VBD'], nltk: ['NN', 'VBD', 'VBP'], stanford: ['JJ', 'VBD']
+
+word: chose
+tags: claws: ['VBD'], nltk: ['VB', 'VBD'], stanford: ['VBD']
+
+word: sermon
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP', 'VBD'], stanford: ['NN', 'NNP']
+
+word: blessed
+tags: claws: ['JJ'], nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: heaven
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NNP']
+
+word: mourn
+tags: claws: ['VB'], nltk: ['NN', 'VB'], stanford: ['VB', 'VBP']
+
+word: contrived
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD', 'VBN'], stanford: ['JJ']
+
+word: ashamed
+tags: claws: ['JJ'], nltk: ['VBD', 'VBN'], stanford: ['JJ']
+
+word: disconcerted
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['JJ']
+
+word: little
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ', 'RB']
+
+word: satisfactory
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: jaws
+tags: claws: ['NNS'], nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: dressed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: neat
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: custom
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'RB']
+
+word: lost
+tags: claws: ['JJ', 'VBD', 'VBN'], nltk: ['JJ', 'NN', 'NNP', 'VBD', 'VBN'], stanford: ['NNP', 'VBD', 'VBN']
+
+word: set
+tags: claws: ['VBN'], nltk: ['NN', 'NNP', 'VB', 'VBD', 'VBN', 'VBP'], stanford: ['VB', 'VBD', 'VBN']
+
+word: fond
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: uncushioned
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['VBN']
+
+word: steeple
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ']
+
+word: entered
+tags: claws: ['VBD', 'VBN'], nltk: ['NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: noisy
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: troublesome
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: red
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: superintendent
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: bible
+tags: claws: ['NN'], nltk: ['JJ', 'NNP'], stanford: ['NNP']
+
+word: won
+tags: claws: ['VBN'], nltk: ['NN', 'NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: recited
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: pupils
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: hungered
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['VBD']
+
+word: commanded
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: sandy
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: abreast
+tags: claws: ['JJ'], nltk: ['IN', 'VBD'], stanford: ['RB']
+
+word: fringed
+tags: claws: ['VBN'], nltk: ['JJ', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: walters
+tags: claws: ['NNP'], nltk: ['NNP', 'NNS'], stanford: ['NNP']
+
+word: sincere
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: want
+tags: claws: ['VB'], nltk: ['JJ', 'NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: marred
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: occasioned
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: portly
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: restless
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: gaze
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN', 'VB']
+
+word: newcomer
+tags: claws: ['NN'], nltk: ['VBZ'], stanford: ['NN']
+
+word: ablaze
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: bliss
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNS']
+
+word: art
+tags: claws: ['NN'], nltk: ['NN', 'RB', 'VBP'], stanford: ['NN', 'VBP']
+
+word: august
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: kind
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['JJ', 'NN', 'RB']
+
+word: envied
+tags: claws: ['VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: librarian
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: insect
+tags: claws: ['NN'], nltk: ['NN', 'VBP'], stanford: ['NN']
+
+word: judicial
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: ecstasy
+tags: claws: ['NN'], nltk: ['JJ', 'PDT'], stanford: ['NN']
+
+word: news
+tags: claws: ['NN'], nltk: ['NN', 'NNS'], stanford: ['NN', 'NNP']
+
+word: profound
+tags: claws: ['JJ'], nltk: ['NN', 'NNP'], stanford: ['JJ']
+
+word: sensation
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: contributed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: instinct
+tags: claws: ['NN'], nltk: ['NNS'], stanford: ['NN']
+
+word: jealous
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: fine
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NN']
+
+word: well
+tags: claws: ['JJ'], nltk: ['NN', 'NNP', 'RB', 'VB'], stanford: ['NN', 'RB', 'UH']
+
+word: daresay
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: manly
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: elegant
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: learn
+tags: claws: ['VB'], nltk: ['IN', 'NN', 'VB', 'VBD', 'VBP'], stanford: ['VB', 'VBP']
+
+word: sank
+tags: claws: ['VBD'], nltk: ['NN', 'VBD'], stanford: ['VBD']
+
+word: obliged
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['JJ', 'VBN']
+
+word: aisles
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: hill
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: only
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ', 'RB']
+
+word: palace
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: belle
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['FW']
+
+word: brought
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: thrown
+tags: claws: ['VBN'], nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: rang
+tags: claws: ['VBD'], nltk: ['NN', 'VBZ'], stanford: ['VBD']
+
+word: broken
+tags: claws: ['VBN'], nltk: ['JJ', 'NN', 'SYM', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: great
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['JJ', 'RB']
+
+word: seas
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: poetry
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: ladies
+tags: claws: ['NNS'], nltk: ['NNPS', 'NNS'], stanford: ['NNP', 'NNS']
+
+word: words
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: rid
+tags: claws: ['VBN'], nltk: ['JJ'], stanford: ['VBN']
+
+word: states
+tags: claws: ['NNP'], nltk: ['NNPS', 'NNS'], stanford: ['NNP', 'NNS']
+
+word: congress
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: president
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: government
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: stormy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: heel
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: despotisms
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNS']
+
+word: far
+tags: claws: ['JJ'], nltk: ['NNP', 'RB'], stanford: ['JJ', 'NNP', 'RB']
+
+word: grateful
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNS'], stanford: ['JJ']
+
+word: history
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: lit
+tags: claws: ['VBN'], nltk: ['NN', 'VB', 'VBD', 'VBN', 'VBZ'], stanford: ['VBD', 'VBN']
+
+word: slender
+tags: claws: ['JJ'], nltk: ['JJR', 'NN'], stanford: ['JJ']
+
+word: limitless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: counted
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: nations
+tags: claws: ['NNS'], nltk: ['NNPS', 'NNS'], stanford: ['NNS']
+
+word: beetle
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: helpless
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: eyed
+tags: claws: ['VBD'], nltk: ['JJ', 'NN', 'VBD'], stanford: ['JJ']
+
+word: uninterested
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: poodle
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: sad
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ']
+
+word: lazy
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: spied
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: wagged
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: lip
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: indifferent
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: touched
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: teeth
+tags: claws: ['NNS'], nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: flew
+tags: claws: ['VBD'], nltk: ['NN', 'VBD'], stanford: ['VBD']
+
+word: anguish
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: comet
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: distress
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: died
+tags: claws: ['VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: possibility
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: miserable
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: occurred
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: canvassed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: tooth
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNS'], stanford: ['NN']
+
+word: seek
+tags: claws: ['VB'], nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: slept
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VB', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: yawned
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: auntie
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'RB', 'VB'], stanford: ['NN', 'NNP']
+
+word: flesh
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: seem
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: bring
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: lads
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: cut
+tags: claws: ['VBN'], nltk: ['JJ', 'NN', 'VB', 'VBD', 'VBN'], stanford: ['NN', 'VB', 'VBD', 'VBN']
+
+word: homage
+tags: claws: ['NN'], nltk: ['VB'], stanford: ['NN']
+
+word: juvenile
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: hated
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: gaudy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: outcast
+tags: claws: ['NN'], nltk: ['IN', 'NN'], stanford: ['NN']
+
+word: strict
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: doorsteps
+tags: claws: ['NNS'], nltk: ['JJ', 'NNS'], stanford: ['NNS']
+
+word: hogsheads
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: obey
+tags: claws: ['VB'], nltk: ['NN'], stanford: ['VB']
+
+word: barefoot
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['RB']
+
+word: leather
+tags: claws: ['NN'], nltk: ['NN', 'RB'], stanford: ['NN']
+
+word: like
+tags: claws: ['VB'], nltk: ['IN', 'JJ', 'NN', 'VB', 'VBP'], stanford: ['IN', 'JJ', 'UH', 'VB', 'VBP']
+
+word: hai
+tags: claws: ['NNS'], stanford: ['NNP']
+
+word: told
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: rotten
+tags: claws: ['JJ'], nltk: ['JJ', 'VB'], stanford: ['JJ']
+
+word: swaller
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN', 'VB']
+
+word: speak
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: bean
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: bury
+tags: claws: ['VB'], nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: crossroads
+tags: claws: ['NN'], nltk: ['NNS'], stanford: ['NNS']
+
+word: wicked
+tags: claws: ['JJ'], nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: hear
+tags: claws: ['VB'], nltk: ['IN', 'JJ', 'NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: feller
+tags: claws: ['NN'], nltk: ['NN', 'VBZ'], stanford: ['NN']
+
+word: follow
+tags: claws: ['VB'], nltk: ['JJ', 'NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: pap
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: self
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'PRP'], stanford: ['NN']
+
+word: dodged
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: layin
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: buried
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: afeard
+tags: claws: ['NN'], nltk: ['IN', 'JJ', 'NN', 'NNP', 'RB', 'VBN'], stanford: ['JJ', 'NNP', 'RB']
+
+word: ticks
+tags: claws: ['NNS'], nltk: ['VBZ'], stanford: ['VBZ']
+
+word: viewed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: enclosed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: hung
+tags: claws: ['VBD'], nltk: ['NN', 'VB', 'VBD', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: drowsy
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ']
+
+word: sympathy
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: vacant
+tags: claws: ['JJ'], nltk: ['JJ', 'VBP'], stanford: ['JJ']
+
+word: still
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['RB']
+
+word: foolhardy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: astounding
+tags: claws: ['JJ'], nltk: ['JJ', 'VBG'], stanford: ['JJ']
+
+word: sat
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'VBD', 'VBN', 'VBP'], stanford: ['VBD']
+
+word: observed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: thrust
+tags: claws: ['VBD'], nltk: ['JJ', 'NN', 'RB', 'VB', 'VBD'], stanford: ['NN', 'VBD', 'VBN']
+
+word: scrawled
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: uncovered
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: gable
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['JJ']
+
+word: whispered
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: easy
+tags: claws: ['JJ'], nltk: ['FW', 'JJ'], stanford: ['JJ']
+
+word: dinner
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: deed
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VBD'], stanford: ['NN', 'VBD']
+
+word: hit
+tags: claws: ['VBD'], nltk: ['VB', 'VBD', 'VBP'], stanford: ['VB', 'VBD', 'VBN']
+
+word: impulse
+tags: claws: ['NN'], nltk: ['NN', 'RB', 'VBZ'], stanford: ['NN']
+
+word: seat
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN', 'VB']
+
+word: jubilant
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: baby
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: sleepy
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: released
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: premature
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: friends
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: top
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['JJ', 'NN']
+
+word: bottom
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['JJ', 'NN']
+
+word: harassed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: lane
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: guiding
+tags: claws: ['JJ'], nltk: ['VBG'], stanford: ['VBG']
+
+word: contentment
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: grow
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: engaged
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: wrote
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: clasped
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['JJ']
+
+word: kissed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: choose
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: heard
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'RB', 'VB', 'VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: smote
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD', 'VBN'], stanford: ['VB', 'VBD']
+
+word: andiron
+tags: claws: ['NN'], nltk: ['NN', 'SYM'], stanford: ['NN']
+
+word: called
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: pursuit
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: dense
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: noonday
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ']
+
+word: meant
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: late
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ', 'NNP', 'RB']
+
+word: recurred
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['VBD']
+
+word: indians
+tags: claws: ['NNS'], nltk: ['NNPS', 'NNS'], stanford: ['NNPS']
+
+word: trackless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: prance
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['VB']
+
+word: spirit
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: grisly
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ']
+
+word: enter
+tags: claws: ['VB'], nltk: ['NN', 'RB'], stanford: ['VB']
+
+word: shapely
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['RB']
+
+word: marble
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: failed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: used
+tags: claws: ['JJ', 'VBD', 'VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: puzzled
+tags: claws: ['VBD'], nltk: ['JJ', 'VBD'], stanford: ['JJ', 'VBD']
+
+word: interfered
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: laid
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: fright
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: witches
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: flung
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: rude
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: lath
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ', 'NN']
+
+word: blew
+tags: claws: ['VBD'], nltk: ['VB', 'VBD'], stanford: ['VBD']
+
+word: merry
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: keep
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: hid
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'NN', 'VB', 'VBD', 'VBN', 'VBZ'], stanford: ['VBD', 'VBN']
+
+word: clad
+tags: claws: ['VBN'], nltk: ['JJ', 'NN', 'VBP'], stanford: ['JJ', 'VBN']
+
+word: forest
+tags: claws: ['NN'], nltk: ['JJS', 'NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: outlaw
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['VB']
+
+word: miller
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: sheriff
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: allowed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: tree
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'SYM'], stanford: ['NN']
+
+word: shot
+tags: claws: ['VBD'], nltk: ['JJ', 'NN', 'VBD'], stanford: ['NN', 'VBD']
+
+word: nettle
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: bed
+tags: claws: ['NN'], nltk: ['NN', 'VB', 'VBN'], stanford: ['NN']
+
+word: stairs
+tags: claws: ['NNS'], nltk: ['NN', 'NNS', 'VBP'], stanford: ['NNS']
+
+word: ghastly
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ']
+
+word: ceased
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: melancholy
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNP', 'NNS', 'RB'], stanford: ['JJ', 'NN']
+
+word: woodshed
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'VBD'], stanford: ['NN', 'VBN']
+
+word: sunken
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['VBN']
+
+word: found
+tags: claws: ['VBD', 'VBN'], nltk: ['NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: ensconced
+tags: claws: ['JJ'], nltk: ['VBD'], stanford: ['VBD']
+
+word: protection
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: distant
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: dono
+tags: claws: ['NN'], nltk: ['VBP'], stanford: ['VBP']
+
+word: think
+tags: claws: ['VB'], nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: listen
+tags: claws: ['VB'], nltk: ['NNP', 'VB'], stanford: ['VB']
+
+word: lantern
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: owner
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: hurry
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VBP'], stanford: ['NN', 'VB']
+
+word: woody
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ', 'NN']
+
+word: required
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: paid
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: swore
+tags: claws: ['VBD'], nltk: ['NN', 'VBP'], stanford: ['VBD']
+
+word: pard
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: catlike
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: trembled
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: fought
+tags: claws: ['VBN'], nltk: ['JJ', 'NN'], stanford: ['JJ', 'VBN']
+
+word: liked
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: stolid
+tags: claws: ['JJ'], nltk: ['JJ', 'VBD'], stanford: ['JJ']
+
+word: move
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: muttered
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: lidless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: speechless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: horror
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: outlying
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: liquor
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VBN'], stanford: ['NN', 'NNP']
+
+word: swear
+tags: claws: ['VB'], nltk: ['NN', 'VB', 'VBP'], stanford: ['VB']
+
+word: good
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ', 'NN', 'NNP']
+
+word: orter
+tags: claws: ['NN'], nltk: ['RB'], stanford: ['VBZ']
+
+word: unwound
+tags: claws: ['VBD'], nltk: ['IN', 'JJ'], stanford: ['VBD', 'VBN']
+
+word: squeezes
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['VBZ']
+
+word: oath
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: continued
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: harbison
+tags: claws: ['NNP'], nltk: ['NNP'], stanford: ['NN', 'NNP']
+
+word: dad
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: pie
+tags: claws: ['NN'], nltk: ['NN', 'VBN'], stanford: ['NN']
+
+word: bless
+tags: claws: ['VB'], nltk: ['IN', 'NN', 'VB'], stanford: ['VB', 'VBP']
+
+word: s'pose
+tags: claws: ['VB'], stanford: ['NN', 'VB']
+
+word: suppose
+tags: claws: ['VB'], nltk: ['NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: separated
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: undressed
+tags: claws: ['VBD'], nltk: ['JJ', 'VBD'], stanford: ['JJ', 'VBD']
+
+word: finished
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: hairs
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNS']
+
+word: gloomy
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: betook
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['NN', 'VBD']
+
+word: stony
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: colossal
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: need
+tags: claws: ['NN'], nltk: ['NN', 'VB', 'VBP'], stanford: ['MD', 'NN', 'VB', 'VBP']
+
+word: recognized
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: sneaked
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: slow
+tags: claws: ['JJ'], nltk: ['JJ', 'VB'], stanford: ['JJ', 'RB']
+
+word: horsemen
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NNP']
+
+word: departed
+tags: claws: ['VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: head
+tags: claws: ['NN'], nltk: ['FW', 'NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: expect
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB']
+
+word: haggard
+tags: claws: ['JJ'], nltk: ['NN', 'RB'], stanford: ['JJ']
+
+word: saw
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: caught
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'NNP', 'VBD', 'VBN'], stanford: ['NNP', 'VBD', 'VBN']
+
+word: eased
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: vanquished
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['VBN']
+
+word: dumb
+tags: claws: ['JJ'], nltk: ['', 'JJ'], stanford: ['JJ']
+
+word: vanished
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: sold
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: wanted
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: fell
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: inquest
+tags: claws: ['NN'], nltk: ['JJS', 'NN'], stanford: ['NN']
+
+word: resolved
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: blanched
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['NNP', 'VBN']
+
+word: murder
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN', 'VB']
+
+word: disjointed
+tags: claws: ['JJ'], nltk: ['VBD', 'VBN'], stanford: ['JJ']
+
+word: den
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: infatuated
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['VBN']
+
+word: health
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: inveterate
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: frauds
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNS']
+
+word: suspected
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: dejected
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: added
+tags: claws: ['VBD'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: calculated
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: ordered
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: medicine
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: believe
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: telltale
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ']
+
+word: thimble
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: heaps
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: aggravate
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: try
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: giddy
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ']
+
+word: mf
+tags: claws: ['NNP'], nltk: ['NNP'], stanford: ['FW']
+
+word: cheeks
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNS']
+
+word: crestfallen
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['VBN']
+
+word: friendless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: forced
+tags: claws: ['VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: forgave
+tags: claws: ['VBD'], nltk: ['VBP'], stanford: ['VBD']
+
+word: blubber
+tags: claws: ['NN'], nltk: ['VB'], stanford: ['VB']
+
+word: purpose
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN']
+
+word: listening
+tags: claws: ['VBG'], nltk: ['JJ', 'NN', 'VBG'], stanford: ['VBG']
+
+word: advantages
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: wooded
+tags: claws: ['JJ'], nltk: ['VBD'], stanford: ['JJ']
+
+word: island
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: hunted
+tags: claws: ['VBD'], nltk: ['JJ', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: lonely
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ']
+
+word: dark
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ', 'NN', 'NNP']
+
+word: managed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: starlight
+tags: claws: ['NN'], nltk: ['VBN'], stanford: ['NN']
+
+word: hoarse
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: send
+tags: claws: ['VB'], nltk: ['NNP', 'VB'], stanford: ['VB']
+
+word: landed
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: sombre
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: glorious
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: temple
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: sackcloth
+tags: claws: ['NN'], nltk: ['CC', 'JJR'], stanford: ['NN']
+
+word: carry
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: drowsiness
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: waifs
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNS']
+
+word: comprehended
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: dewy
+tags: claws: ['JJ'], nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: catbird
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ']
+
+word: northern
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['NNP']
+
+word: shrill
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: being
+tags: claws: ['NN'], nltk: ['VBG'], stanford: ['NN', 'VBG']
+
+word: stirred
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: impatient
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: fried
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: underbrush
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: regalia
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NN']
+
+word: jeweled
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBN']
+
+word: delighted
+tags: claws: ['JJ'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ']
+
+word: astonished
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['VBN']
+
+word: close
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'NNP', 'RB', 'VB'], stanford: ['JJ', 'NN', 'NNP', 'RB', 'VB']
+
+word: hungry
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: sullen
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['NN']
+
+word: parted
+tags: claws: ['JJ', 'VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: deck
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: ferryboat
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ', 'NN']
+
+word: afloat
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['RB']
+
+word: funny
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: uninstructed
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: heroes
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: unkindness
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: twilight
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: uncommitted
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: mutiny
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: rest
+tags: claws: ['NN'], nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: motionless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: knelt
+tags: claws: ['VBD'], nltk: ['VB', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: schoolboy
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: known
+tags: claws: ['VBN'], nltk: ['JJ', 'VBN', 'VBZ'], stanford: ['JJ', 'VBN']
+
+word: swam
+tags: claws: ['VBD'], nltk: ['VB', 'VBD', 'VBP'], stanford: ['NN', 'VBD']
+
+word: expected
+tags: claws: ['VBD', 'VBN'], nltk: ['VBN'], stanford: ['VBD', 'VBN']
+
+word: crept
+tags: claws: ['VBD', 'VBN'], nltk: ['NN', 'VB', 'VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: hurried
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'VBD'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: open
+tags: claws: ['JJ'], nltk: ['JJ', 'VB', 'VBP'], stanford: ['JJ', 'VB']
+
+word: care
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN', 'VB']
+
+word: cracked
+tags: claws: ['VBD'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: drowned
+tags: claws: ['VBN'], nltk: ['NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: bereaved
+tags: claws: ['JJ'], nltk: ['VBD'], stanford: ['JJ']
+
+word: measureless
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: pulled
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: rested
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: naked
+tags: claws: ['JJ'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ']
+
+word: stale
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: escaped
+tags: claws: ['VBN'], nltk: ['NNS', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: homesick
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ', 'NN']
+
+word: chest
+tags: claws: ['NN'], nltk: ['JJ', 'JJS'], stanford: ['NN']
+
+word: roused
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: moved
+tags: claws: ['VBD'], nltk: ['NNS', 'VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: laughed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: dawned
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: wait
+tags: claws: ['VB'], nltk: ['JJ', 'NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: stretched
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: careless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: spouting
+tags: claws: ['VBG'], nltk: ['NN'], stanford: ['VBG']
+
+word: wide
+tags: claws: ['JJ'], nltk: ['JJ'], stanford: ['JJ', 'RB']
+
+word: breathless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: weird
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: chilly
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: clung
+tags: claws: ['VBD'], nltk: ['NN', 'VBD', 'VBP'], stanford: ['NN', 'VBD', 'VBN', 'VBZ']
+
+word: ceaseless
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: billowy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: outlines
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['VBZ']
+
+word: matchless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: deafen
+tags: claws: ['VB'], nltk: ['NN'], stanford: ['VB']
+
+word: eloquent
+tags: claws: ['JJ'], nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: handbreadth
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ']
+
+word: rusty
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: cared
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: scalped
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['VBD']
+
+word: assembled
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: remained
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: sick
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ']
+
+word: reverent
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: sabbath
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: winning
+tags: claws: ['JJ'], nltk: ['VBG'], stanford: ['VBG']
+
+word: funeral
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: gratefulness
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: dreamt
+tags: claws: ['VBD'], nltk: ['VBP'], stanford: ['VBD']
+
+word: pressed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: blowed
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: mercy
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: sake
+tags: claws: ['NN'], nltk: ['NN', 'VBP'], stanford: ['NN']
+
+word: throwed
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: shut
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB', 'VBD', 'VBN', 'VBP'], stanford: ['JJ', 'VB', 'VBD', 'VBN']
+
+word: father
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: unworthy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: hendered
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBN']
+
+word: public
+tags: claws: ['JJ', 'NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ', 'NN', 'NNP']
+
+word: elephant
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: arrived
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: pretended
+tags: claws: ['VBD'], nltk: ['JJ', 'VBD'], stanford: ['VBD']
+
+word: goody
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: jealousy
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: offered
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: awkward
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: suffered
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: jolly
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ', 'RB']
+
+word: changed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: drownded
+tags: claws: ['VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBN']
+
+word: waked
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: ventured
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: committed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: smarty
+tags: claws: ['NNP'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: hurled
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: dobbins
+tags: claws: ['NNP'], nltk: ['NNP', 'NNS', 'VBZ'], stanford: ['NNP']
+
+word: middle
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ', 'NN']
+
+word: urchin
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: other
+tags: claws: ['NN'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: licked
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: denial
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: supposed
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: upset
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['VBD', 'VBN']
+
+word: stuck
+tags: claws: ['VBN'], nltk: ['NN', 'VB', 'VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: movements
+tags: claws: ['NNS'], nltk: ['NNPS', 'NNS'], stanford: ['NNP', 'NNS']
+
+word: forgot
+tags: claws: ['VBD', 'VBN'], nltk: ['RB', 'VBD', 'VBP'], stanford: ['VB', 'VBD', 'VBN']
+
+word: help
+tags: claws: ['NN'], nltk: ['NN', 'VB', 'VBD'], stanford: ['NN', 'VB']
+
+word: spoke
+tags: claws: ['VBD'], nltk: ['NN', 'VBD'], stanford: ['VBD']
+
+word: uneasiness
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: situation
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: folly
+tags: claws: ['NN'], nltk: ['RB'], stanford: ['NN']
+
+word: inspired
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: repentance
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: severe
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: bald
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: vengeful
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: ample
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: occupied
+tags: claws: ['VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: gawky
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: conceited
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: liberty
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: meagre
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: friendship
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: religion
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: culture
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: filial
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['JJ']
+
+word: longings
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: compass
+tags: claws: ['NN'], nltk: ['VB'], stanford: ['NN']
+
+word: homely
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: throng
+tags: claws: ['NN'], nltk: ['IN', 'NN'], stanford: ['NN', 'VBG']
+
+word: snowy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: vision
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: goodly
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: grates
+tags: claws: ['NNS'], nltk: ['VBZ'], stanford: ['VBZ']
+
+word: earthly
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: closed
+tags: claws: ['VBD', 'VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: arose
+tags: claws: ['VBD'], nltk: ['NN', 'VB'], stanford: ['VBD']
+
+word: stanzas
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNS']
+
+word: flowery
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: aurora
+tags: claws: ['NNP'], nltk: ['NNP'], stanford: ['NN']
+
+word: cloudy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: scorn
+tags: claws: ['NN'], nltk: ['VB'], stanford: ['VB']
+
+word: unadorned
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: icy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['NN']
+
+word: bade
+tags: claws: ['VBD'], nltk: ['VB'], stanford: ['VBD']
+
+word: non-presbyterians
+tags: claws: ['NNS'], stanford: ['NNPS']
+
+word: claws
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNS']
+
+word: gilded
+tags: claws: ['VBN'], stanford: ['JJ']
+
+word: prose
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: cadets
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: temperance
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: concerned
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ', 'VBN']
+
+word: discouraging
+tags: claws: ['JJ'], nltk: ['JJ', 'VBG'], stanford: ['JJ', 'VBG']
+
+word: handed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['NNP', 'VBD', 'VBN']
+
+word: actual
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: senator
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: covered
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: believed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: companionless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: forlorn
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: discreet
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: fishes
+tags: claws: ['NNS'], nltk: ['VBZ'], stanford: ['NNS']
+
+word: cowardly
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: befriend
+tags: claws: ['VB'], nltk: ['NN'], stanford: ['VBP']
+
+word: befriended
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBN']
+
+word: helped
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: distressing
+tags: claws: ['JJ'], nltk: ['VBG'], stanford: ['JJ']
+
+word: timid
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: take
+tags: claws: ['VB'], nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: counsel
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: fastened
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: horse
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: hidden
+tags: claws: ['VBN'], nltk: ['JJ', 'NNP', 'VBN', 'VBP'], stanford: ['JJ', 'NNP', 'VBN']
+
+word: mind
+tags: claws: ['VB'], nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: bated
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: breath
+tags: claws: ['NN'], nltk: ['IN', 'NN'], stanford: ['NN']
+
+word: rapt
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['NN']
+
+word: fickle
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: abused
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: saved
+tags: claws: ['VBD', 'VBN'], nltk: ['NNP', 'VBD', 'VBN'], stanford: ['NNP', 'VBD', 'VBN']
+
+word: secrecy
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: achieve
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: insecure
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: forget
+tags: claws: ['VB'], nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: kings
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: king
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: bull
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: married
+tags: claws: ['VBN'], nltk: ['NNP', 'VBN'], stanford: ['JJ', 'NNP', 'VBN']
+
+word: interfere
+tags: claws: ['VB'], nltk: ['RB', 'VB'], stanford: ['VB']
+
+word: fooled
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBN']
+
+word: tools
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: murky
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: subdued
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['JJ', 'VBN']
+
+word: spotted
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD']
+
+word: moonlit
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: befitted
+tags: claws: ['VBD'], nltk: ['VBN'], stanford: ['VBN']
+
+word: belong
+tags: claws: ['VB'], nltk: ['NN', 'VBP'], stanford: ['VB', 'VBP']
+
+word: cobwebs
+tags: claws: ['NNS'], nltk: ['NNS'], stanford: ['NN']
+
+word: ready
+tags: claws: ['JJ'], nltk: ['JJ', 'VBP'], stanford: ['JJ']
+
+word: deaf
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ', 'NN']
+
+word: spaniard
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN', 'NNP']
+
+word: job
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: shanty
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ']
+
+word: concluded
+tags: claws: ['VBD', 'VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: injured
+tags: claws: ['VBN'], nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: number
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: stricken
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: talked
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: testified
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: nothingness
+tags: claws: ['NN'], nltk: ['VB'], stanford: ['NN']
+
+word: tavern
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN']
+
+word: taverns
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: foller
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: fair
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: burst
+tags: claws: ['VBN'], nltk: ['NN', 'VB', 'VBN', 'VBP', 'VBZ'], stanford: ['NN', 'VB', 'VBD', 'VBN']
+
+word: thimblefuls
+tags: claws: ['NNS'], nltk: ['NN'], stanford: ['NNS']
+
+word: box
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: sleep
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'RB', 'VB', 'VBP'], stanford: ['NN', 'NNP', 'VB', 'VBP']
+
+word: ask
+tags: claws: ['VB'], nltk: ['IN', 'NN', 'VB', 'VBD', 'VBP'], stanford: ['VB', 'VBP']
+
+word: eat
+tags: claws: ['VB'], nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: boundless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: mamma
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN', 'VB']
+
+word: allow
+tags: claws: ['VB'], nltk: ['IN', 'VB'], stanford: ['VB']
+
+word: walled
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['JJ']
+
+word: lofty
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: labyrinth
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: brushed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: welshman
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['JJ', 'NNP']
+
+word: stile
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['JJ', 'NN']
+
+word: millionth
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['JJ']
+
+word: horsewhipped
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['VBD', 'VBN']
+
+word: understand
+tags: claws: ['VB'], nltk: ['IN', 'VB'], stanford: ['VB']
+
+word: episode
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: cellar
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: pistol
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: sung
+tags: claws: ['VBD'], nltk: ['NN', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: fired
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: describe
+tags: claws: ['VB'], nltk: ['NNP', 'VB'], stanford: ['VB']
+
+word: slunk
+tags: claws: ['VBD'], nltk: ['VBP'], stanford: ['VBD']
+
+word: agin
+tags: claws: ['NN'], nltk: ['IN', 'NN'], stanford: ['IN', 'VBG']
+
+word: backed
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: stole
+tags: claws: ['VBN'], nltk: ['NN', 'VBD'], stanford: ['VB', 'VBD']
+
+word: ragged
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP', 'VBD'], stanford: ['JJ']
+
+word: beg
+tags: claws: ['VB'], nltk: ['NN', 'VBP'], stanford: ['VB', 'VBP']
+
+word: bulky
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: flighty
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: spread
+tags: claws: ['VBN'], nltk: ['NN', 'VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: outspoken
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: madam
+tags: claws: ['NN'], nltk: ['VBZ'], stanford: ['NN']
+
+word: beholden
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: early
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ', 'RB']
+
+word: crazed
+tags: claws: ['JJ'], nltk: ['VBN'], stanford: ['JJ']
+
+word: cavern
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: traversed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: rocky
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: relic
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: lucid
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: cathedral
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: wearisome
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: squeezed
+tags: claws: ['VBD'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: quest
+tags: claws: ['NN'], nltk: ['JJS', 'NN'], stanford: ['NN']
+
+word: wound
+tags: claws: ['VBD'], nltk: ['NN', 'VB', 'VBD'], stanford: ['NN', 'VB', 'VBP']
+
+word: supported
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: formed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: stalagmites
+tags: claws: ['NNS'], nltk: ['VBZ'], stanford: ['NNS']
+
+word: packed
+tags: claws: ['VBN'], nltk: ['JJ', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: sounded
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: understood
+tags: claws: ['VBD'], nltk: ['NN', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: frail
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: bygone
+tags: claws: ['JJ'], nltk: ['VB'], stanford: ['JJ']
+
+word: cheer
+tags: claws: ['VB'], nltk: ['NN', 'NNP'], stanford: ['NN', 'VB']
+
+word: rose
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['NN', 'VBD']
+
+word: wick
+tags: claws: ['NN'], nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: linger
+tags: claws: ['VB'], nltk: ['JJR'], stanford: ['VBP']
+
+word: deep
+tags: claws: ['JJ'], nltk: ['JJ', 'RB'], stanford: ['JJ', 'RB']
+
+word: famished
+tags: claws: ['JJ'], nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: doubt
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'RB']
+
+word: petitioner
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NNP']
+
+word: heartbreaking
+tags: claws: ['JJ'], nltk: ['VBG'], stanford: ['JJ']
+
+word: drooped
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: grown
+tags: claws: ['VBN'], nltk: ['JJ', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: described
+tags: claws: ['VBD'], nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: groped
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: informed
+tags: claws: ['VBN'], nltk: ['NN', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: bedridden
+tags: claws: ['NN'], nltk: ['VBN'], stanford: ['JJ']
+
+word: wasting
+tags: claws: ['VBG'], nltk: ['NN'], stanford: ['VBG']
+
+word: unfortunate
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: placed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: scooped
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: pyramids
+tags: claws: ['NNS'], nltk: ['NNP'], stanford: ['NNPS']
+
+word: conqueror
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: oblivion
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NNP']
+
+word: mission
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: hapless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: priceless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: lucifer
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['JJR']
+
+word: hive
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: raised
+tags: claws: ['VBN'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: polite
+tags: claws: ['JJ'], nltk: ['JJ', 'NN'], stanford: ['JJ', 'NN']
+
+word: expire
+tags: claws: ['VB'], nltk: ['NN'], stanford: ['VB']
+
+word: researched
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: dug
+tags: claws: ['VBN'], nltk: ['JJ', 'NN', 'VB', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: orgies
+tags: claws: ['NNS'], nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: accused
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: jist
+tags: claws: ['NN'], nltk: ['VBP'], stanford: ['VBP']
+
+word: poured
+tags: claws: ['VBD'], nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: fixed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN', 'VBP'], stanford: ['VBD', 'VBN']
+
+word: possessed
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: repeated
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: matter
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NN', 'RB', 'VB']
+
+word: conceived
+tags: claws: ['VBN'], nltk: ['VBN'], stanford: ['VBD']
+
+word: superb
+tags: claws: ['JJ'], nltk: ['RB'], stanford: ['JJ']
+
+word: national
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['NNP']
+
+word: academy
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: clean
+tags: claws: ['JJ'], nltk: ['JJ', 'VB'], stanford: ['JJ', 'VB']
+
+word: napkin
+tags: claws: ['NN'], nltk: ['FW'], stanford: ['NN']
+
+word: whithersoever
+tags: claws: ['VB'], nltk: ['CC'], stanford: ['NN']
+
+word: bore
+tags: claws: ['VBD'], nltk: ['IN', 'VBD'], stanford: ['NN', 'VBD']
+
+word: picturesque
+tags: claws: ['JJ'], nltk: ['VB'], stanford: ['JJ']
+
+word: gits
+tags: claws: ['NNS'], nltk: ['VBZ'], stanford: ['VBZ']
+
+word: attic
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: bullier
+tags: claws: ['NN'], nltk: ['JJR'], stanford: ['JJR']
+
+word: ripper
+tags: claws: ['NN'], nltk: ['NN'], stanford: ['NNP']
+
+word: perform
+tags: claws: ['VB'], nltk: ['NN', 'VBP'], stanford: ['VB', 'VBP']
+
+word: domain
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: copyright
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN']
+
+word: foundation
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: trademark
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN']
+
+word: ebooks
+tags: claws: ['NNS'], nltk: ['NN', 'NNS', 'VBZ'], stanford: ['NNPS', 'NNS']
+
+word: full
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: distribute
+tags: claws: ['VB'], nltk: ['NN', 'NNP', 'VB'], stanford: ['VB', 'VBP']
+
+word: agree
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: indicate
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: read
+tags: claws: ['VBN'], nltk: ['NNP', 'VB', 'VBD', 'VBN'], stanford: ['VB', 'VBN']
+
+word: agreement
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: literary
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['NNP']
+
+word: govern
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: downloading
+tags: claws: ['VBG'], nltk: ['NN'], stanford: ['VBG']
+
+word: following
+tags: claws: ['JJ'], nltk: ['JJ', 'NN', 'VBG'], stanford: ['VBG']
+
+word: paragraphs
+tags: claws: ['NNS'], nltk: ['JJ'], stanford: ['NNS']
+
+word: hypertext
+tags: claws: ['NN'], nltk: ['JJ'], stanford: ['NN']
+
+word: provide
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: vanilla
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: ascii
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: comply
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: derive
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: agreed
+tags: claws: ['VBN'], nltk: ['NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: prepare
+tags: claws: ['VB'], nltk: ['VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: section
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: donations
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: replacement
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: expend
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: transcribe
+tags: claws: ['VB'], nltk: ['NN'], stanford: ['VB']
+
+word: defects
+tags: claws: ['NNS'], nltk: ['NNP'], stanford: ['NNS']
+
+word: warranty
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: disclaimer
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: liability
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: negligence
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: paragraph
+tags: claws: ['NN'], nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN']
+
+word: distributor
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: liable
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['JJ']
+
+word: indirect
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['JJ']
+
+word: consequential
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['JJ']
+
+word: punitive
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['JJ']
+
+word: incidental
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['JJ']
+
+word: discover
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: warranties
+tags: claws: ['NNS'], nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: fitness
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: harmless
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: arise
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: sections
+tags: claws: ['NNS'], nltk: ['NNP'], stanford: ['NNS']
+
+word: internal
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['NNP']
+
+word: revenue
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: city
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: director
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: irs
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: received
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: web
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: pg
+tags: claws: ['NNP'], nltk: ['NNP'], stanford: ['NN']
+
+word: of
+tags: nltk: ['IN', 'NNP'], stanford: ['IN', 'RB']
+
+word: complete
+tags: nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: by
+tags: nltk: ['IN'], stanford: ['IN', 'RB']
+
+word: (
+tags: nltk: ['('], stanford: ['-LRB-']
+
+word: )
+tags: nltk: [')'], stanford: ['-RRB-']
+
+word: this
+tags: nltk: ['DT', 'NNP'], stanford: ['DT']
+
+word: for
+tags: nltk: ['IN', 'NNP'], stanford: ['IN']
+
+word: at
+tags: nltk: ['IN', 'NNP'], stanford: ['IN', 'NN', 'RB']
+
+word: no
+tags: nltk: ['CC', 'DT', 'NNP', 'RB', 'UH'], stanford: ['DT', 'NNP', 'RB', 'UH']
+
+word: and
+tags: nltk: ['CC', 'NNP'], stanford: ['CC']
+
+word: with
+tags: nltk: ['IN', 'NNP'], stanford: ['IN']
+
+word: you
+tags: nltk: ['', 'NNP', 'PRP', 'PRPDOLLAR'], stanford: ['PRP']
+
+word: away
+tags: nltk: ['NNP', 'RB', 'RP'], stanford: ['RB', 'RP']
+
+word: -
+tags: nltk: ['HYPHEN'], stanford: ['COMMA', 'HYPH', 'HYPHEN']
+
+word: under
+tags: nltk: ['IN', 'NNP'], stanford: ['IN']
+
+word: title
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: release
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: date
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: [
+tags: nltk: ['IN', 'JJ', 'NN', 'NNP', 'NNS', 'RB', 'VB'], stanford: ['-LRB-']
+
+word: #
+tags: nltk: ['SPLAT'], stanford: ['NN']
+
+word: ]
+tags: nltk: ['NN'], stanford: ['-RRB-']
+
+word: last
+tags: nltk: ['JJ'], stanford: ['JJ', 'NNP', 'RB', 'VB']
+
+word: english
+tags: nltk: ['JJ'], stanford: ['NNP']
+
+word: encoding
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: utf
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: ***
+tags: nltk: ['JJ', 'NN'], stanford: ['NFP']
+
+word: start
+tags: nltk: ['NN', 'NNP', 'RB', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: i
+tags: nltk: ['PRP'], stanford: ['NNP', 'PRP']
+
+word: y
+tags: nltk: ['CC', 'NN', 'NNP', 'SYM'], stanford: ['NN', 'NNP']
+
+word: o
+tags: nltk: ['JJ', 'MD', 'NN', 'NNP', 'NNS', 'SYM'], stanford: ['IN', 'NN', 'NNP', 'UH']
+
+word: decides
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: upon
+tags: nltk: ['IN', 'JJ', 'NN', 'RB', 'RP'], stanford: ['IN']
+
+word: her
+tags: nltk: ['NN', 'PRP', 'PRPDOLLAR'], stanford: ['PRP', 'PRPDOLLAR']
+
+word: challenge
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: a
+tags: nltk: ['DT', 'NNP'], stanford: ['DT', 'LS', 'NN', 'NNP']
+
+word: private
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: ii
+tags: nltk: ['NNP'], stanford: ['CD']
+
+word: beguiled
+tags: nltk: ['VBD'], stanford: ['NNP', 'VBD']
+
+word: iii
+tags: nltk: ['NNP'], stanford: ['CD', 'NNP']
+
+word: triumph
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: reward
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: iv
+tags: nltk: ['NNP'], stanford: ['CD', 'NNP']
+
+word: acrobatics
+tags: nltk: ['NNPS'], stanford: ['NNP']
+
+word: attending
+tags: nltk: ['NNP', 'VBG'], stanford: ['VBG']
+
+word: showing
+tags: nltk: ['NN', 'NNP', 'VBG'], stanford: ['NN', 'VBG']
+
+word: off
+tags: nltk: ['IN', 'NNP', 'RB', 'RP'], stanford: ['IN', 'JJ', 'RB', 'RP']
+
+word: v
+tags: nltk: ['NNP'], stanford: ['NN', 'NNP']
+
+word: in
+tags: nltk: ['IN', 'NNP'], stanford: ['IN', 'RB', 'RP']
+
+word: vi
+tags: nltk: ['NNP'], stanford: ['NN', 'NNP']
+
+word: dentistry
+tags: nltk: ['NN', 'NNP'], stanford: ['NNP']
+
+word: midnight
+tags: nltk: ['NN', 'NNP', 'VBN'], stanford: ['NN', 'NNP']
+
+word: devils
+tags: nltk: ['JJ', 'NNP', 'NNS', 'VBG'], stanford: ['NNS']
+
+word: approaches
+tags: nltk: ['NNP'], stanford: ['NNS']
+
+word: hours
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: vii
+tags: nltk: ['NNP'], stanford: ['CD']
+
+word: into
+tags: nltk: ['IN', 'NNP'], stanford: ['IN']
+
+word: viii
+tags: nltk: ['NNP'], stanford: ['CD', 'NNP']
+
+word: on
+tags: nltk: ['IN'], stanford: ['IN', 'RB', 'RP']
+
+word: his
+tags: nltk: ['PRPDOLLAR'], stanford: ['PRP', 'PRPDOLLAR']
+
+word: course
+tags: nltk: ['NN', 'NNP'], stanford: ['NN', 'RB']
+
+word: ix
+tags: nltk: ['NNP'], stanford: ['CD']
+
+word: grave
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['JJ', 'NN']
+
+word: introduced
+tags: nltk: ['NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: injun
+tags: nltk: ['NN', 'NNP', 'SYM'], stanford: ['NN', 'NNP']
+
+word: explains
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: x
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: brings
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: comes
+tags: nltk: ['NNP', 'VBZ'], stanford: ['VBZ']
+
+word: himself
+tags: nltk: ['NNP', 'PRP'], stanford: ['PRP']
+
+word: s
+tags: nltk: ['CC', 'JJ', 'NN', 'NNP', 'NNS', 'PDT', 'PRP', 'RB', 'VB', 'VBD', 'VBN', 'VBP', 'VBZ'], stanford: ['NN', 'VBZ']
+
+word: xii
+tags: nltk: ['NN'], stanford: ['CD']
+
+word: generosity
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: weakens
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: xiii
+tags: nltk: ['NN'], stanford: ['CD']
+
+word: to
+tags: nltk: ['NNP', 'TO'], stanford: ['IN', 'TO', 'VB']
+
+word: camp
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'NNP']
+
+word: fire
+tags: nltk: ['NN', 'NNP', 'VBN'], stanford: ['NN', 'NNP']
+
+word: xiv
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: steals
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: xv
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: reports
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: xvi
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: xvii
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: xviii
+tags: nltk: ['NN'], stanford: ['CD', 'NNP']
+
+word: dream
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: overshadowed
+tags: nltk: ['NNP'], stanford: ['VBN']
+
+word: becomes
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: xix
+tags: nltk: ['NN'], stanford: ['CD', 'NN']
+
+word: tells
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: asserts
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: itself
+tags: nltk: ['NNP', 'PRP'], stanford: ['PRP']
+
+word: eloquence
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: satisfied
+tags: nltk: ['JJ', 'NNP', 'VBD', 'VBN'], stanford: ['JJ']
+
+word: xxii
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: betrayed
+tags: nltk: ['JJ', 'NNP', 'VBD'], stanford: ['VBN']
+
+word: signal
+tags: nltk: ['JJ', 'NN'], stanford: ['NN', 'NNP']
+
+word: xxiii
+tags: nltk: ['NN'], stanford: ['CD', 'NNP']
+
+word: xxiv
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: days
+tags: nltk: ['NNPS', 'NNS'], stanford: ['NNS']
+
+word: nights
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: xxv
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: about
+tags: nltk: ['IN', 'RB'], stanford: ['IN', 'NN', 'RB']
+
+word: diamonds
+tags: nltk: ['NNP'], stanford: ['NNS']
+
+word: search
+tags: nltk: ['NN', 'NNP'], stanford: ['NN', 'VB']
+
+word: treasure
+tags: nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN']
+
+word: dead
+tags: nltk: ['JJ', 'NNP', 'VBP'], stanford: ['JJ']
+
+word: xxvi
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: haunted
+tags: nltk: ['NNP', 'VBN'], stanford: ['JJ', 'NNP', 'VBN']
+
+word: bitter
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: xxvii
+tags: nltk: ['NN'], stanford: ['CD', 'NNP']
+
+word: be
+tags: nltk: ['NNP', 'VB'], stanford: ['VB', 'VBP']
+
+word: xxviii
+tags: nltk: ['NN'], stanford: ['CD', 'NNP']
+
+word: huck
+tags: nltk: ['NN', 'NNP', 'VBD'], stanford: ['NNP']
+
+word: mounts
+tags: nltk: ['NNS'], stanford: ['NNP']
+
+word: xxix
+tags: nltk: ['NN'], stanford: ['CD', 'NNP']
+
+word: nic
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: “
+tags: nltk: ['CC', 'CD', 'FW', 'IN', 'JJ', 'MD', 'NN', 'NNP', 'NNS', 'PDT', 'RB', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ'], stanford: ['``']
+
+word: ”
+tags: nltk: ['IN', 'JJ', 'NN', 'NNP', 'PDT', 'RB', 'VB', 'VBD', 'VBN', 'VBP'], stanford: ["''"]
+
+word: aid
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: xxx
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: circulated
+tags: nltk: ['NNP'], stanford: ['VBN']
+
+word: hope
+tags: nltk: ['NN', 'RB', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: despair
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: xxxi
+tags: nltk: ['NN'], stanford: ['NN', 'NNS']
+
+word: exploring
+tags: nltk: ['JJ', 'NNP', 'VBG'], stanford: ['VBG']
+
+word: commences
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: cave
+tags: nltk: ['NN', 'NNP', 'VBP'], stanford: ['NN', 'NNP']
+
+word: but
+tags: nltk: ['CC', 'NNP'], stanford: ['CC', 'IN']
+
+word: not
+tags: nltk: ['NNP', 'RB'], stanford: ['RB']
+
+word: xxxii
+tags: nltk: ['NN'], stanford: ['CD', 'NNP']
+
+word: their
+tags: nltk: ['NNP', 'PRPDOLLAR'], stanford: ['PRPDOLLAR']
+
+word: escape
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'VB']
+
+word: xxxiii
+tags: nltk: ['NN'], stanford: ['CD', 'NNP']
+
+word: notes
+tags: nltk: ['NNP'], stanford: ['NNS']
+
+word: xxxiv
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: xxxv
+tags: nltk: ['NN'], stanford: ['IN', 'NNP']
+
+word: who
+tags: nltk: ['NNP', 'WP'], stanford: ['WP']
+
+word: tendin
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: t
+tags: nltk: ['', 'CC', 'IN', 'JJ', 'NN', 'NNP', 'NNS', 'RB', 'VB', 'VBP', 'VBZ'], stanford: ['NN']
+
+word: that
+tags: nltk: ['DT', 'IN', 'RB', 'WDT'], stanford: ['DT', 'IN', 'WDT']
+
+word: ?
+tags: nltk: ['QUERY'], stanford: ['COMMA', 'QUERY']
+
+word: after
+tags: nltk: ['IN', 'NNP'], stanford: ['IN', 'RB']
+
+word: amiss
+tags: nltk: ['NN', 'NNP'], stanford: ['JJ']
+
+word: dampened
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: prize
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'NNP']
+
+word: show
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'NNP', 'VB', 'VBP']
+
+word: result
+tags: nltk: ['NN'], stanford: ['NN', 'VBP']
+
+word: pinch
+tags: nltk: ['NNP'], stanford: ['VB']
+
+word: finn
+tags: nltk: ['IN', 'NNP'], stanford: ['NNP']
+
+word: meditates
+tags: nltk: ['NNS'], stanford: ['NNP']
+
+word: forewarnings
+tags: nltk: ['NNS'], stanford: ['NNP']
+
+word: disturbing
+tags: nltk: ['VBG'], stanford: ['NNP']
+
+word: demoralized
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: ashore
+tags: nltk: ['NN', 'RB', 'VBP'], stanford: ['RB']
+
+word: bath
+tags: nltk: ['IN'], stanford: ['NN']
+
+word: swims
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: market
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: slaughter
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: retaliates
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: frost
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: astonishes
+tags: nltk: ['NNP'], stanford: ['VBZ']
+
+word: evening
+tags: nltk: ['NN', 'NNP', 'VBG'], stanford: ['NN', 'NNP']
+
+word: stolen
+tags: nltk: ['JJ', 'NNP', 'VBN'], stanford: ['NNP', 'VBN']
+
+word: melons
+tags: nltk: ['NNS'], stanford: ['NNPS']
+
+word: visiting
+tags: nltk: ['VBG'], stanford: ['NNP', 'VBG']
+
+word: swears
+tags: nltk: ['NNP', 'VBZ'], stanford: ['VBZ']
+
+word: ;
+tags: nltk: ['SEMICOLON'], stanford: ['COMMA', 'SEMICOLON']
+
+word: fellow
+tags: nltk: ['NN', 'NNP', 'VBP'], stanford: ['JJ', 'NN']
+
+word: !
+tags: nltk: ['PERIOD'], stanford: ['COMMA', 'PERIOD']
+
+word: treasures
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNPS', 'NNS']
+
+word: unearthed
+tags: nltk: ['JJ', 'VBD'], stanford: ['NNP', 'VBN']
+
+word: next
+tags: nltk: ['IN', 'JJ', 'RB'], stanford: ['IN', 'JJ', 'NNP', 'RB']
+
+word: run
+tags: nltk: ['NN', 'NNP', 'VB', 'VBN', 'VBP'], stanford: ['NN', 'VB', 'VBN', 'VBP']
+
+word: your
+tags: nltk: ['NNP', 'PRPDOLLAR'], stanford: ['PRPDOLLAR', 'self']
+
+word: sneeze
+tags: nltk: ['NN', 'VB'], stanford: ['NN', 'NNP', 'VB']
+
+word: alarming
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: stir
+tags: nltk: ['NN', 'VB', 'VBD', 'VBP', 'VBZ'], stanford: ['NN', 'VB', 'VBP']
+
+word: up
+tags: nltk: ['IN', 'RB', 'RP'], stanford: ['IN', 'JJ', 'NN', 'RB', 'RP']
+
+word: marks
+tags: nltk: ['NNS'], stanford: ['NNP', 'NNS']
+
+word: turn
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: out
+tags: nltk: ['IN', 'NNP', 'RB', 'RP'], stanford: ['IN', 'RB', 'RP']
+
+word: drop
+tags: nltk: ['NN', 'VB'], stanford: ['NN', 'NNP', 'VB']
+
+word: backs
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNS', 'VBZ']
+
+word: transformed
+tags: nltk: ['NNP'], stanford: ['VBD']
+
+word: once
+tags: nltk: ['RB'], stanford: ['IN', 'RB']
+
+word: preface
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: most
+tags: nltk: ['JJS', 'RBS'], stanford: ['JJS', 'NNP', 'RBS']
+
+word: one
+tags: nltk: ['CD', 'NN'], stanford: ['CD', 'NN', 'PRP']
+
+word: were
+tags: nltk: ['NNP', 'VBD', 'WRB'], stanford: ['VBD']
+
+word: my
+tags: nltk: ['NNP', 'PRPDOLLAR'], stanford: ['PRPDOLLAR']
+
+word: those
+tags: nltk: ['DT', 'NNP'], stanford: ['DT']
+
+word: mine
+tags: nltk: ['JJ', 'NN'], stanford: ['NN', 'PRP']
+
+word: therefore
+tags: nltk: ['IN', 'RB', 'VBD'], stanford: ['RB']
+
+word: belongs
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: all
+tags: nltk: ['DT', 'NNP', 'PDT', 'RB'], stanford: ['DT', 'PDT', 'RB', 'UH']
+
+word: thirty
+tags: nltk: ['JJ', 'NN', 'NNP', 'VBP'], stanford: ['CD']
+
+word: forty
+tags: nltk: ['CD', 'JJ', 'NN', 'NNP'], stanford: ['CD']
+
+word: will
+tags: nltk: ['MD', 'NNP'], stanford: ['MD', 'NN']
+
+word: part
+tags: nltk: ['NN'], stanford: ['JJ', 'NN', 'VB']
+
+word: has
+tags: nltk: ['NNP', 'VBZ'], stanford: ['VBZ']
+
+word: been
+tags: nltk: ['VBN'], stanford: ['VBN', 'VBP']
+
+word: how
+tags: nltk: ['NNP', 'WRB'], stanford: ['WRB']
+
+word: queer
+tags: nltk: ['NN', 'VBP'], stanford: ['NN']
+
+word: sometimes
+tags: nltk: ['NN', 'RB'], stanford: ['RB']
+
+word: answer
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'VB']
+
+word: down
+tags: nltk: ['IN', 'JJ', 'NN', 'NNP', 'RB', 'RP', 'VBN'], stanford: ['IN', 'JJ', 'NNP', 'RB', 'RP']
+
+word: over
+tags: nltk: ['IN', 'RB', 'RP', 'VBN'], stanford: ['IN', 'RB', 'RP']
+
+word: seldom
+tags: nltk: ['JJ', 'RB'], stanford: ['RB']
+
+word: never
+tags: nltk: ['NNP', 'RB'], stanford: ['RB']
+
+word: so
+tags: nltk: ['CC', 'IN', 'NNP', 'RB'], stanford: ['CC', 'IN', 'RB']
+
+word: state
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: could
+tags: nltk: ['MD', 'NNP', 'VB'], stanford: ['MD']
+
+word: have
+tags: nltk: ['NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: through
+tags: nltk: ['IN', 'RB'], stanford: ['IN', 'RB', 'RP']
+
+word: stove
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: just
+tags: nltk: ['NNP', 'RB'], stanford: ['RB']
+
+word: perplexed
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ', 'VBN']
+
+word: enough
+tags: nltk: ['JJ', 'NN', 'RB'], stanford: ['JJ', 'RB']
+
+word: if
+tags: nltk: ['IN', 'NNP'], stanford: ['IN']
+
+word: hold
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: did
+tags: nltk: ['NN', 'NNP', 'VBD'], stanford: ['VBD']
+
+word: was
+tags: nltk: ['IN', 'NNP', 'VBD'], stanford: ['VBD']
+
+word: bending
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: nothing
+tags: nltk: ['NN', 'NNP', 'VBG'], stanford: ['NN']
+
+word: weeds
+tags: nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: there
+tags: nltk: ['EX', 'NNP', 'RB'], stanford: ['EX', 'RB']
+
+word: behind
+tags: nltk: ['IN', 'NN'], stanford: ['IN', 'RB']
+
+word: roundabout
+tags: nltk: ['NN'], stanford: ['JJ', 'NN']
+
+word: might
+tags: nltk: ['MD', 'NNP'], stanford: ['MD', 'NN']
+
+word: don
+tags: nltk: ['JJ', 'NN', 'NNP', 'VB', 'VBD', 'VBP', 'VBZ'], stanford: ['VBP']
+
+word: jam
+tags: nltk: ['NN', 'VB', 'VBZ'], stanford: ['NN', 'VB']
+
+word: d
+tags: nltk: ['', 'JJ', 'NN', 'NNP', 'NNS', 'RB', 'VB', 'VBG', 'VBP', 'VBZ'], stanford: ['NN']
+
+word: round
+tags: nltk: ['CC', 'NN', 'VB', 'VBN'], stanford: ['IN', 'JJ', 'NN', 'RB']
+
+word: laugh
+tags: nltk: ['IN', 'NN', 'VB'], stanford: ['NN', 'VB']
+
+word: hang
+tags: nltk: ['NN', 'NNP', 'PDT', 'VB', 'VBD', 'VBZ'], stanford: ['NN', 'VB']
+
+word: can
+tags: nltk: ['MD', 'NNP'], stanford: ['MD']
+
+word: anything
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: tricks
+tags: nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: him
+tags: nltk: ['NNP', 'PRP'], stanford: ['PRP']
+
+word: dog
+tags: nltk: ['', 'NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: alike
+tags: nltk: ['RB'], stanford: ['JJ', 'RB']
+
+word: coming
+tags: nltk: ['JJ', 'VBG'], stanford: ['VBG']
+
+word: pears
+tags: nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: torment
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: before
+tags: nltk: ['IN', 'NNP', 'RB'], stanford: ['IN', 'RB']
+
+word: knows
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: make
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: lick
+tags: nltk: ['JJ', 'NN', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: spare
+tags: nltk: ['NNP', 'VB'], stanford: ['NN', 'VB']
+
+word: laying
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: both
+tags: nltk: ['CC', 'DT', 'NNP'], stanford: ['CC', 'DT']
+
+word: scratch
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'VB']
+
+word: somehow
+tags: nltk: ['NN', 'NNP', 'RB', 'VBP'], stanford: ['RB']
+
+word: hurt
+tags: nltk: ['NN', 'PDT', 'VB', 'VBD', 'VBP'], stanford: ['VB', 'VBD', 'VBN']
+
+word: play
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: hookey
+tags: nltk: ['NN', 'PDT'], stanford: ['NN', 'RB']
+
+word: *
+tags: nltk: ['NN', 'NNP'], stanford: ['NFP']
+
+word: mighty
+tags: nltk: ['JJ', 'NN', 'NNS', 'RB', 'VB'], stanford: ['JJ', 'RB']
+
+word: do
+tags: nltk: ['NNP', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: had
+tags: nltk: ['NN', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: back
+tags: nltk: ['JJ', 'NN', 'RB', 'RP', 'SYM', 'VB', 'VBP'], stanford: ['JJ', 'NN', 'RB', 'RP', 'VB', 'VBP']
+
+word: split
+tags: nltk: ['VB', 'VBP'], stanford: ['VBD', 'VBP']
+
+word: least
+tags: nltk: ['JJS', 'NNP'], stanford: ['JJS', 'RBS']
+
+word: younger
+tags: nltk: ['JJR', 'NN'], stanford: ['JJR']
+
+word: half
+tags: nltk: ['DT', 'JJ', 'NN', 'NNP', 'PDT', 'RB', 'VB'], stanford: ['JJ', 'NN', 'PDT', 'RB']
+
+word: quiet
+tags: nltk: ['JJ', 'NN', 'VB'], stanford: ['JJ', 'VB']
+
+word: damaging
+tags: nltk: ['NN', 'VBG'], stanford: ['JJ', 'VBG']
+
+word: many
+tags: nltk: ['JJ'], stanford: ['JJ', 'PDT']
+
+word: hearted
+tags: nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: pet
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: middling
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: warm
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: warn
+tags: nltk: ['NN', 'VB', 'VBD', 'VBP'], stanford: ['VB']
+
+word: yes
+tags: nltk: ['NN', 'NNP', 'UH'], stanford: ['UH']
+
+word: swimming
+tags: nltk: ['NN', 'NNP', 'VBG'], stanford: ['NN', 'VBG']
+
+word: touch
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: too
+tags: nltk: ['NNP', 'RB'], stanford: ['RB']
+
+word: now
+tags: nltk: ['NNP', 'RB'], stanford: ['RB', 'UH']
+
+word: spite
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: where
+tags: nltk: ['NNP', 'WRB'], stanford: ['WRB']
+
+word: damp
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: collar
+tags: nltk: ['NN', 'VBP'], stanford: ['NN']
+
+word: unbutton
+tags: nltk: ['NNP'], stanford: ['VB']
+
+word: bother
+tags: nltk: ['DT', 'IN', 'NN', 'NNP', 'VB'], stanford: ['VB']
+
+word: ye
+tags: nltk: ['NN', 'NNP', 'RB'], stanford: ['NNP', 'PRP']
+
+word: singed
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: better
+tags: nltk: ['JJR', 'NNP', 'RB', 'RBR', 'VBP'], stanford: ['JJR', 'RB', 'RBR']
+
+word: thread
+tags: nltk: ['JJ', 'NN', 'VBN'], stanford: ['NN']
+
+word: examined
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: which
+tags: nltk: ['NNP', 'WDT'], stanford: ['WDT']
+
+word: confound
+tags: nltk: ['IN'], stanford: ['VB']
+
+word: wish
+tags: nltk: ['JJ', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: gee
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: bet
+tags: nltk: ['IN', 'NN', 'VB', 'VBD', 'VBN', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: lam
+tags: nltk: ['NN', 'VB'], stanford: ['VB', 'VBP']
+
+word: within
+tags: nltk: ['IN', 'NNP'], stanford: ['IN']
+
+word: even
+tags: nltk: ['NNP', 'RB'], stanford: ['RB']
+
+word: less
+tags: nltk: ['CC', 'JJR', 'NN', 'NNP', 'RBR'], stanford: ['JJR', 'RBR']
+
+word: are
+tags: nltk: ['NNP', 'VBP'], stanford: ['VBP']
+
+word: interest
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: drove
+tags: nltk: ['VB', 'VBD'], stanford: ['VBD']
+
+word: whistling
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: disturbed
+tags: nltk: ['NN', 'NNS', 'VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: sort
+tags: nltk: ['NN'], stanford: ['NN', 'RB']
+
+word: liquid
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: warble
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: tongue
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: short
+tags: nltk: ['JJ'], stanford: ['JJ', 'RB']
+
+word: soul
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: feels
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: presently
+tags: nltk: ['NNP', 'RB'], stanford: ['RB']
+
+word: any
+tags: nltk: ['DT', 'NNP'], stanford: ['DT', 'RB', 'body']
+
+word: either
+tags: nltk: ['CC', 'DT', 'RB'], stanford: ['CC', 'RB']
+
+word: im
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: blue
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: citified
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: nose
+tags: nltk: ['JJ', 'NN', 'RB', 'VBP'], stanford: ['NN']
+
+word: shabbier
+tags: nltk: ['NN', 'VB'], stanford: ['JJR']
+
+word: neither
+tags: nltk: ['CC', 'DT', 'RB'], stanford: ['CC', 'DT']
+
+word: sidewise
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: 
+tags: nltk: ['', 'Ain', 'David', 'Don', 'Great', 'He', 'Hi', 'I', 'Sid', 'You', 'ain', 'can', 'deaf', 'didn', 'don', 'its', 'she', 'the', 'under', 'won', 'wouldn'], stanford: ['']
+
+word: oh
+tags: nltk: ['NNP', 'UH'], stanford: ['UH']
+
+word: fool
+tags: nltk: ['JJ', 'NN', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: lump
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: dare
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: aw
+tags: nltk: ['NNP'], stanford: ['UH']
+
+word: walk
+tags: nltk: ['IN', 'NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: shoulder
+tags: nltk: ['JJR', 'NN', 'VB'], stanford: ['NN']
+
+word: brace
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: till
+tags: nltk: ['EX', 'IN', 'JJ', 'NN', 'RB', 'VB', 'VBN', 'VBP'], stanford: ['IN']
+
+word: hot
+tags: nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ']
+
+word: flushed
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: relaxed
+tags: nltk: ['NN', 'VBD'], stanford: ['JJ']
+
+word: lie
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'VB']
+
+word: stand
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: sheep
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: rolling
+tags: nltk: ['NN', 'VBG'], stanford: ['JJ', 'NN', 'VBG']
+
+word: gripped
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: together
+tags: nltk: ['NN', 'RB'], stanford: ['RB']
+
+word: pounding
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: nuff
+tags: nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: smothered
+tags: nltk: ['JJ', 'VBD'], stanford: ['VBN']
+
+word: sobbing
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: faces
+tags: nltk: ['VBZ'], stanford: ['NNS']
+
+word: lowed
+tags: nltk: ['VB', 'VBD'], stanford: ['VBN']
+
+word: pretty
+tags: nltk: ['IN', 'JJ', 'NNP', 'RB'], stanford: ['RB']
+
+word: morning
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: spring
+tags: nltk: ['NN', 'VBG'], stanford: ['NN', 'VB']
+
+word: locust
+tags: nltk: ['JJ'], stanford: ['NNP']
+
+word: dreamy
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: inviting
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: whitewash
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['NN']
+
+word: hollow
+tags: nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ', 'NNP']
+
+word: compared
+tags: nltk: ['NNP', 'VBN'], stanford: ['VBN']
+
+word: whitewashed
+tags: nltk: ['VBD'], stanford: ['JJ']
+
+word: discouraged
+tags: nltk: ['NN', 'VBD', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: tin
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: singing
+tags: nltk: ['VBG'], stanford: ['NN', 'VBG']
+
+word: trading
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: hundred
+tags: nltk: ['CD', 'JJ', 'NNP', 'VBD', 'VBN'], stanford: ['CD']
+
+word: fifty
+tags: nltk: ['JJ', 'NN', 'VB'], stanford: ['CD']
+
+word: somebody
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: fetch
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['VB']
+
+word: ole
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: wid
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: spec
+tags: nltk: ['VBD'], stanford: ['VB']
+
+word: ax
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: tend
+tags: nltk: ['NN', 'VBP'], stanford: ['VB', 'VBP']
+
+word: de
+tags: nltk: ['IN', 'VB'], stanford: ['FW', 'IN']
+
+word: talks
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: tar
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: whacks
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: anyways
+tags: nltk: ['VBZ'], stanford: ['RB']
+
+word: cry
+tags: nltk: ['NN', 'RB', 'VB'], stanford: ['NN', 'VB']
+
+word: bully
+tags: nltk: ['RB'], stanford: ['NN']
+
+word: taw
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: gay
+tags: nltk: ['JJ', 'NN', 'VBN', 'VBZ'], stanford: ['JJ', 'NN']
+
+word: besides
+tags: nltk: ['IN', 'NNS'], stanford: ['IN', 'RB']
+
+word: sore
+tags: nltk: ['NN', 'RB'], stanford: ['JJ']
+
+word: tingling
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: whitewashing
+tags: nltk: ['JJ', 'NN', 'VBG'], stanford: ['NN', 'VBG']
+
+word: fun
+tags: nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ', 'NN']
+
+word: multiplied
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: burnt
+tags: nltk: ['NN', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: whose
+tags: nltk: ['NNP', 'WPDOLLAR'], stanford: ['WPDOLLAR']
+
+word: hop
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'VB']
+
+word: skip
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: proof
+tags: nltk: ['CC'], stanford: ['JJ']
+
+word: light
+tags: nltk: ['JJ', 'NN', 'VB', 'VBD'], stanford: ['JJ', 'NN', 'VB']
+
+word: toned
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: ding
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: dong
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: near
+tags: nltk: ['IN', 'JJ', 'RB', 'VBP'], stanford: ['IN', 'JJ', 'RB']
+
+word: rounded
+tags: nltk: ['VB'], stanford: ['JJ']
+
+word: drawing
+tags: nltk: ['NN', 'NNP', 'VBG'], stanford: ['NN', 'VBG']
+
+word: ting
+tags: nltk: ['VBG'], stanford: ['NNP']
+
+word: ship
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: ch
+tags: nltk: ['NN', 'SYM'], stanford: ['NN']
+
+word: wow
+tags: nltk: ['NN'], stanford: ['UH']
+
+word: ow
+tags: nltk: ['NN', 'SYM'], stanford: ['NN']
+
+word: done
+tags: nltk: ['NN', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: sh
+tags: nltk: ['NNP'], stanford: ['FW', 'NN', 'NNP']
+
+word: h
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: yi
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: alongside
+tags: nltk: ['IN', 'NN', 'RB'], stanford: ['IN']
+
+word: watered
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: hello
+tags: nltk: ['NNP'], stanford: ['UH']
+
+word: hey
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['UH']
+
+word: noticing
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: druther
+tags: nltk: ['IN', 'RB'], stanford: ['VB']
+
+word: call
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: carelessly
+tags: nltk: ['NNS'], stanford: ['RB']
+
+word: suits
+tags: nltk: ['NNS'], stanford: ['NNS', 'VBZ']
+
+word: chance
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: forth
+tags: nltk: ['JJ', 'NN', 'RB', 'VBD'], stanford: ['RB', 'RP']
+
+word: note
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['NN', 'VB']
+
+word: criticised
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: absorbed
+tags: nltk: ['JJ', 'NNS', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: consent
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: thousand
+tags: nltk: ['CD', 'JJ', 'NN', 'VBP'], stanford: ['CD']
+
+word: tackle
+tags: nltk: ['IN', 'NN', 'VB', 'VBD', 'VBP'], stanford: ['VB', 'VBP']
+
+word: shucks
+tags: nltk: ['NNP', 'NNS', 'VBZ'], stanford: ['UH']
+
+word: retired
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: legs
+tags: nltk: ['JJ', 'NN', 'NNS'], stanford: ['NNS']
+
+word: jeer
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: swing
+tags: nltk: ['VBG'], stanford: ['VB']
+
+word: twelve
+tags: nltk: ['JJ', 'NN', 'VB'], stanford: ['CD']
+
+word: jews
+tags: nltk: ['NN'], stanford: ['NNPS']
+
+word: bottle
+tags: nltk: ['NN', 'SYM'], stanford: ['NN']
+
+word: unlock
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: soldier
+tags: nltk: ['JJR', 'NN'], stanford: ['NN']
+
+word: six
+tags: nltk: ['CD', 'NNP'], stanford: ['CD']
+
+word: orange
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: nice
+tags: nltk: ['JJ', 'NN', 'NNS'], stanford: ['JJ']
+
+word: plenty
+tags: nltk: ['JJ', 'NN', 'NNP', 'RB'], stanford: ['NN', 'RB']
+
+word: wise
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: tread
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: ten
+tags: nltk: ['CC', 'CD', 'IN', 'JJ', 'NN', 'NNS', 'SYM', 'VB', 'VBP'], stanford: ['CD']
+
+word: climbing
+tags: nltk: ['VBG'], stanford: ['NN', 'VBG']
+
+word: twenty
+tags: nltk: ['JJ', 'NN', 'VBP', 'VBZ'], stanford: ['CD']
+
+word: awhile
+tags: nltk: ['JJ', 'NN', 'RB'], stanford: ['RB']
+
+word: wended
+tags: nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: headquarters
+tags: nltk: ['NNS'], stanford: ['NN']
+
+word: presented
+tags: nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: sitting
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: breakfast
+tags: nltk: ['NN', 'PDT', 'SYM', 'VB'], stanford: ['NN']
+
+word: dining
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: bear
+tags: nltk: ['IN', 'JJ', 'NN', 'VB', 'VBP'], stanford: ['VB']
+
+word: trust
+tags: nltk: ['NN', 'VB', 'VBZ'], stanford: ['NN', 'VB']
+
+word: herself
+tags: nltk: ['NN', 'PRP', 'VB'], stanford: ['PRP']
+
+word: find
+tags: nltk: ['IN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: true
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: washed
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: coated
+tags: nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: tan
+tags: nltk: ['IN'], stanford: ['NN']
+
+word: improving
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: flavor
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: flourish
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: collect
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: crowded
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: cow
+tags: nltk: ['SYM'], stanford: ['NN']
+
+word: square
+tags: nltk: ['JJ', 'NN', 'VBP'], stanford: ['JJ', 'NN']
+
+word: military
+tags: nltk: ['JJ', 'NNP'], stanford: ['NN', 'NNP']
+
+word: fight
+tags: nltk: ['NN', 'VB', 'VBD'], stanford: ['NN', 'VB', 'VBP']
+
+word: suited
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: smaller
+tags: nltk: ['JJR', 'NNP'], stanford: ['JJR']
+
+word: appointed
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBN']
+
+word: passing
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: lovely
+tags: nltk: ['JJ', 'RB'], stanford: ['JJ']
+
+word: plaited
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: embroidered
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: pan
+tags: nltk: ['NN', 'SYM'], stanford: ['NN']
+
+word: happiest
+tags: nltk: ['JJS', 'NN'], stanford: ['JJS']
+
+word: grotesque
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: grieving
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: longer
+tags: nltk: ['NN', 'RB', 'RBR'], stanford: ['RB', 'RBR']
+
+word: sigh
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: flower
+tags: nltk: ['JJR', 'NN'], stanford: ['NN']
+
+word: something
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: tilted
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: nearer
+tags: nltk: ['NN', 'RB'], stanford: ['RBR']
+
+word: bare
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: button
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: anyway
+tags: nltk: ['RB'], stanford: ['RB', 'UH']
+
+word: nightfall
+tags: nltk: ['DT', 'NN', 'RB'], stanford: ['NN']
+
+word: meantime
+tags: nltk: ['RB'], stanford: ['NN']
+
+word: whack
+tags: nltk: ['NN', 'VBP'], stanford: ['NN', 'VB']
+
+word: glorying
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: wellnigh
+tags: nltk: ['JJ'], stanford: ['NN', 'RB']
+
+word: catch
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: brimful
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: er
+tags: nltk: ['NN'], stanford: ['UH']
+
+word: belting
+tags: nltk: ['VBP'], stanford: ['VBG']
+
+word: healing
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: pity
+tags: nltk: ['NN', 'VB'], stanford: ['NN', 'UH']
+
+word: loving
+tags: nltk: ['JJ', 'NN', 'VBG'], stanford: ['JJ', 'VBG']
+
+word: wrong
+tags: nltk: ['JJ'], stanford: ['JJ', 'NN']
+
+word: notice
+tags: nltk: ['NN', 'NNP', 'RB', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: lying
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: unto
+tags: nltk: ['JJ'], stanford: ['IN']
+
+word: forgiving
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: die
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: unsaid
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: ah
+tags: nltk: ['NNP'], stanford: ['UH']
+
+word: feel
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['VB', 'VBP']
+
+word: curls
+tags: nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: wet
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: fall
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: pray
+tags: nltk: ['NN', 'VB'], stanford: ['VB', 'VBP']
+
+word: abuse
+tags: nltk: ['NN', 'VBP'], stanford: ['VB']
+
+word: cold
+tags: nltk: ['JJ', 'NN', 'NNP', 'VB'], stanford: ['JJ', 'NNP']
+
+word: end
+tags: nltk: ['NN', 'VB'], stanford: ['NN', 'NNP', 'VB']
+
+word: swallowing
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: grating
+tags: nltk: ['JJ', 'NN', 'VBG'], stanford: ['VBG']
+
+word: delight
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: clouds
+tags: nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: routine
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: wilted
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ']
+
+word: breast
+tags: nltk: ['NN', 'VB', 'VBD'], stanford: ['NN']
+
+word: friendly
+tags: nltk: ['JJ', 'RB'], stanford: ['JJ']
+
+word: damps
+tags: nltk: ['NN'], stanford: ['VBZ']
+
+word: bend
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: tear
+tags: nltk: ['JJ', 'NN', 'VB'], stanford: ['NN', 'VB']
+
+word: blighted
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: drenched
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: remains
+tags: nltk: ['VBZ'], stanford: ['NNS']
+
+word: strangling
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: tallow
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: beamed
+tags: nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: welded
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: thin
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: memorizing
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: distracting
+tags: nltk: ['VBG'], stanford: ['JJ', 'VBG']
+
+word: theirs
+tags: nltk: ['NN', 'NNS'], stanford: ['PRP', 'PRPDOLLAR']
+
+word: shall
+tags: nltk: ['MD', 'NN', 'NNP'], stanford: ['MD']
+
+word: thick
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: manage
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: shining
+tags: nltk: ['JJ', 'VBG'], stanford: ['VBG']
+
+word: worth
+tags: nltk: ['IN', 'JJ', 'NN'], stanford: ['JJ', 'NN']
+
+word: western
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: imposing
+tags: nltk: ['JJ', 'NN'], stanford: ['VBG']
+
+word: begin
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: dress
+tags: nltk: ['JJ', 'VB'], stanford: ['VB']
+
+word: trifle
+tags: nltk: ['JJ', 'NN', 'NNS', 'RB'], stanford: ['RB']
+
+word: groping
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: dripping
+tags: nltk: ['VBG'], stanford: ['JJ', 'VBG']
+
+word: below
+tags: nltk: ['IN'], stanford: ['IN', 'RB']
+
+word: backward
+tags: nltk: ['NN', 'RB'], stanford: ['JJ', 'RB']
+
+word: saturated
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: wrought
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: sundays
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNP', 'NNPS']
+
+word: please
+tags: nltk: ['JJ', 'NN', 'NNP', 'VB'], stanford: ['UH']
+
+word: plain
+tags: nltk: ['JJ', 'NN', 'NNP', 'RB', 'VBG'], stanford: ['JJ', 'NNP', 'RB']
+
+word: lickrish
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: fish
+tags: nltk: ['JJ', 'NN', 'VB'], stanford: ['NN', 'VB']
+
+word: hook
+tags: nltk: ['NN', 'VBP'], stanford: ['NN', 'VB']
+
+word: fifteen
+tags: nltk: ['JJ'], stanford: ['CD']
+
+word: ouch
+tags: nltk: ['JJ'], stanford: ['UH']
+
+word: older
+tags: nltk: ['JJR', 'NN'], stanford: ['JJR']
+
+word: longed
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: inserted
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: leaves
+tags: nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: stands
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: referred
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: slim
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: sharp
+tags: nltk: ['JJ'], stanford: ['JJ', 'RB']
+
+word: curved
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ']
+
+word: straight
+tags: nltk: ['JJ', 'RB', 'VBD'], stanford: ['JJ', 'RB']
+
+word: spreading
+tags: nltk: ['JJ', 'NN', 'VBG'], stanford: ['VBG']
+
+word: sleigh
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: earnest
+tags: nltk: ['JJS', 'NN', 'NNP'], stanford: ['JJ', 'NN', 'NNP']
+
+word: absent
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: vary
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: latter
+tags: nltk: ['JJ', 'NN', 'RBR'], stanford: ['JJ', 'NN']
+
+word: washing
+tags: nltk: ['VBG'], stanford: ['NN', 'VBG']
+
+word: aged
+tags: nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ']
+
+word: iron
+tags: nltk: ['NN', 'VBN'], stanford: ['NN']
+
+word: doubtless
+tags: nltk: ['RB', 'VB'], stanford: ['RB']
+
+word: smitten
+tags: nltk: ['NN'], stanford: ['VBN']
+
+word: likely
+tags: nltk: ['JJ', 'RB'], stanford: ['JJ']
+
+word: alloy
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: fast
+tags: nltk: ['JJ', 'NN', 'RB'], stanford: ['JJ', 'RB']
+
+word: roar
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: staring
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: shake
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'NNP', 'VB']
+
+word: hither
+tags: nltk: ['NN', 'RBR'], stanford: ['NN']
+
+word: thither
+tags: nltk: ['NN', 'PRP'], stanford: ['JJR', 'NN']
+
+word: exhibit
+tags: nltk: ['NN'], stanford: ['VBP']
+
+word: inquiring
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: elect
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: eaten
+tags: nltk: ['NN', 'VB', 'VBN'], stanford: ['VBN']
+
+word: grass
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: gush
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: proud
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: dear
+tags: nltk: ['JJ', 'VBP'], stanford: ['JJ']
+
+word: tugging
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: _
+tags: nltk: ['IN', 'JJ', 'NN'], stanford: ['NFP']
+
+word: major
+tags: nltk: ['NNP'], stanford: ['JJ']
+
+word: circling
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: oiled
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: snobs
+tags: nltk: ['NN'], stanford: ['NNS']
+
+word: hush
+tags: nltk: ['NN', 'NNP'], stanford: ['JJ']
+
+word: tittering
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: medium
+tags: nltk: ['NN'], stanford: ['JJ', 'NN']
+
+word: flow
+tags: nltk: ['NN', 'VBP'], stanford: ['NN']
+
+word: whilst
+tags: nltk: ['CC', 'NNP'], stanford: ['IN']
+
+word: sail
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: express
+tags: nltk: ['NN', 'NNP'], stanford: ['VB']
+
+word: harder
+tags: nltk: ['NN'], stanford: ['JJR', 'RBR']
+
+word: prayed
+tags: nltk: ['NN', 'VB', 'VBD', 'VBN', 'VBP'], stanford: ['VBD']
+
+word: oppressed
+tags: nltk: ['JJ', 'VBD'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: groaning
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: withal
+tags: nltk: ['JJ', 'NN'], stanford: ['NN', 'RB']
+
+word: amen
+tags: nltk: ['NNP', 'NNS'], stanford: ['UH']
+
+word: rustling
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: dresses
+tags: nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: tally
+tags: nltk: ['RB'], stanford: ['NN']
+
+word: fly
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: calmly
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: coat
+tags: nltk: ['NN', 'VBN'], stanford: ['NN']
+
+word: itched
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: droned
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: nod
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: dealt
+tags: nltk: ['VBZ'], stanford: ['VBD']
+
+word: moving
+tags: nltk: ['JJ', 'NN', 'VBG'], stanford: ['JJ', 'VBG']
+
+word: lamb
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: moral
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: working
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: vagrant
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: walked
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: smelt
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: bolder
+tags: nltk: ['NN'], stanford: ['JJR']
+
+word: closer
+tags: nltk: ['NN', 'RBR'], stanford: ['JJR', 'RBR']
+
+word: gingerly
+tags: nltk: ['JJ', 'RB'], stanford: ['RB']
+
+word: snatch
+tags: nltk: ['NN', 'VB'], stanford: ['VB', 'VBP']
+
+word: missing
+tags: nltk: ['VBG'], stanford: ['JJ', 'VBG']
+
+word: subsided
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: paws
+tags: nltk: ['NN'], stanford: ['NNS']
+
+word: minded
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD']
+
+word: flirt
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: neighboring
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: inward
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: kerchiefs
+tags: nltk: ['NN'], stanford: ['NNS']
+
+word: jumping
+tags: nltk: ['VBG'], stanford: ['NN', 'VBG']
+
+word: lighting
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: tired
+tags: nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: wearied
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: sighed
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: sailing
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: yelps
+tags: nltk: ['NN'], stanford: ['NNS']
+
+word: woolly
+tags: nltk: ['RB'], stanford: ['JJ']
+
+word: sheered
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: faced
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD']
+
+word: suppressed
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: halting
+tags: nltk: ['NN', 'VBG'], stanford: ['JJ', 'VBG']
+
+word: pronounced
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: quite
+tags: nltk: ['RB'], stanford: ['PDT', 'RB']
+
+word: divine
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: marring
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: upright
+tags: nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: stay
+tags: nltk: ['NN', 'VB', 'VBP', 'VBZ'], stanford: ['VB', 'VBP']
+
+word: further
+tags: nltk: ['JJ', 'JJR', 'RB', 'RBR'], stanford: ['JJ', 'RB']
+
+word: groan
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['VB']
+
+word: pull
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: louder
+tags: nltk: ['NN', 'RBR'], stanford: ['RBR']
+
+word: panting
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: groans
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: joggle
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: kill
+tags: nltk: ['FW', 'NN', 'NNP', 'VB', 'VBP'], stanford: ['VB']
+
+word: sooner
+tags: nltk: ['JJR', 'RBR'], stanford: ['RBR']
+
+word: dying
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: downstairs
+tags: nltk: ['NNS'], stanford: ['RB']
+
+word: quick
+tags: nltk: ['JJ', 'NN', 'NNP'], stanford: ['JJ', 'RB']
+
+word: rubbage
+tags: nltk: ['NN', 'VBP'], stanford: ['NN']
+
+word: upstairs
+tags: nltk: ['JJ', 'NNS'], stanford: ['RB']
+
+word: mortified
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ']
+
+word: restored
+tags: nltk: ['JJ', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: climb
+tags: nltk: ['NN', 'VBP'], stanford: ['VB']
+
+word: aches
+tags: nltk: ['VBZ'], stanford: ['NNS']
+
+word: love
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: dangling
+tags: nltk: ['NN', 'VBG'], stanford: ['JJ', 'VBG']
+
+word: shorn
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: sour
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: dismantled
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: cast
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBD']
+
+word: fluttering
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: crescent
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: weather
+tags: nltk: ['NN', 'SYM'], stanford: ['NN']
+
+word: wash
+tags: nltk: ['JJ', 'NN', 'VB', 'VBD'], stanford: ['NN', 'VB']
+
+word: spunk
+tags: nltk: ['JJ', 'NN', 'NNP', 'SYM'], stanford: ['NN']
+
+word: dern
+tags: nltk: ['JJ', 'NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: nigger
+tags: nltk: ['JJ', 'NN'], stanford: ['NN', 'NNP']
+
+word: leastways
+tags: nltk: ['NNS', 'VBZ'], stanford: ['NNP', 'NNS']
+
+word: daytime
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: certainly
+tags: nltk: ['NNP', 'RB'], stanford: ['RB']
+
+word: aha
+tags: nltk: ['NNP'], stanford: ['UH']
+
+word: blame
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: barley
+tags: nltk: ['NNP', 'SYM'], stanford: ['NN']
+
+word: eleven
+tags: nltk: ['JJ', 'RB'], stanford: ['CD', 'NNP']
+
+word: busted
+tags: nltk: ['VBD'], stanford: ['JJ', 'VBD']
+
+word: sounds
+tags: nltk: ['NNP', 'NNS', 'VBZ'], stanford: ['NNS', 'VBZ']
+
+word: becuz
+tags: nltk: ['IN', 'NN', 'NNP', 'NNS', 'RB', 'VBP'], stanford: ['IN', 'NN', 'NNP']
+
+word: wartiest
+tags: nltk: ['JJS'], stanford: ['NN']
+
+word: bout
+tags: nltk: ['IN', 'NN'], stanford: ['NN', 'NNP']
+
+word: devil
+tags: nltk: ['JJ', 'NN', 'NNP', 'NNS', 'SYM', 'VBD', 'VBP'], stanford: ['NN', 'NNP']
+
+word: shed
+tags: nltk: ['JJ', 'NN', 'VBN'], stanford: ['NN', 'VBN']
+
+word: drunk
+tags: nltk: ['JJ', 'NN', 'NNP', 'NNS', 'VBP'], stanford: ['JJ', 'NN', 'NNP']
+
+word: stiddy
+tags: nltk: ['NNS'], stanford: ['NN']
+
+word: slosh
+tags: nltk: ['VBP'], stanford: ['VB']
+
+word: tick
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: genuwyne
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: briskly
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: hum
+tags: nltk: ['NN'], stanford: ['JJ', 'VB']
+
+word: diminished
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: dread
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: nudges
+tags: nltk: ['NNS'], stanford: ['NNS', 'VBZ']
+
+word: winks
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: whispers
+tags: nltk: ['NNS'], stanford: ['NNS', 'VBZ']
+
+word: manifest
+tags: nltk: ['JJS', 'VB'], stanford: ['JJ', 'VB']
+
+word: non
+tags: nltk: ['JJ', 'VB'], stanford: ['FW']
+
+word: betray
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: caricature
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: gazed
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: armed
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: noon
+tags: nltk: ['IN', 'NN', 'RB'], stanford: ['NN']
+
+word: yours
+tags: nltk: ['NNS'], stanford: ['PRP']
+
+word: live
+tags: nltk: ['JJ', 'VB', 'VBP'], stanford: ['RB', 'VB', 'VBP']
+
+word: ensued
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: slip
+tags: nltk: ['NN', 'VB', 'VBZ'], stanford: ['NN', 'VB']
+
+word: steady
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: borne
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: peppering
+tags: nltk: ['JJ'], stanford: ['VBG']
+
+word: tingled
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: spelling
+tags: nltk: ['JJ', 'NN', 'VBG'], stanford: ['NN']
+
+word: yielded
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: worn
+tags: nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: flaming
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: wing
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: flat
+tags: nltk: ['JJ'], stanford: ['JJ', 'RB']
+
+word: travel
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: embattled
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: excited
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ']
+
+word: grasp
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: twitching
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: lent
+tags: nltk: ['VB'], stanford: ['VBD']
+
+word: talking
+tags: nltk: ['VBG'], stanford: ['NN', 'VBG']
+
+word: chewing
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: chew
+tags: nltk: ['VBP'], stanford: ['VB']
+
+word: kiss
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: whisper
+tags: nltk: ['IN', 'NN', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: hesitating
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: marry
+tags: nltk: ['VB', 'VBP'], stanford: ['VB']
+
+word: confused
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD']
+
+word: pushed
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: fear
+tags: nltk: ['NN', 'VB'], stanford: ['NN', 'VB', 'VBP']
+
+word: sobs
+tags: nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: chiefest
+tags: nltk: ['NN'], stanford: ['JJS']
+
+word: upbraid
+tags: nltk: ['JJ'], stanford: ['VBD']
+
+word: hide
+tags: nltk: ['IN', 'NN', 'VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: cross
+tags: nltk: ['', 'JJ', 'NN', 'VB'], stanford: ['NN', 'VB']
+
+word: moody
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: prevailing
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: later
+tags: nltk: ['JJ', 'RB'], stanford: ['JJ', 'RB', 'RBR']
+
+word: hammering
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: pervading
+tags: nltk: ['NN'], stanford: ['NN', 'VBG']
+
+word: meditating
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: constrained
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: curdling
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: sear
+tags: nltk: ['VB', 'VBP'], stanford: ['NN']
+
+word: gaudier
+tags: nltk: ['RB'], stanford: ['JJR']
+
+word: shudder
+tags: nltk: ['JJR', 'NN'], stanford: ['NN', 'NNP', 'VB']
+
+word: dancing
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: stalk
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: brown
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: beaten
+tags: nltk: ['NN'], stanford: ['VBN']
+
+word: crimson
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: belt
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: rusted
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: slouch
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: determined
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: cogitating
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: failing
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: afterward
+tags: nltk: ['IN', 'RB'], stanford: ['RB']
+
+word: funnel
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: shaped
+tags: nltk: ['JJ', 'VBD'], stanford: ['VBN']
+
+word: doodle
+tags: nltk: ['JJ', 'NNP'], stanford: ['NN']
+
+word: darted
+tags: nltk: ['VBD'], stanford: ['VBD', 'VBN']
+
+word: twice
+tags: nltk: ['RB'], stanford: ['PDT', 'RB']
+
+word: bow
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: barelegged
+tags: nltk: ['VBD'], stanford: ['JJ']
+
+word: tiptoe
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: guy
+tags: nltk: ['NNP'], stanford: ['NN', 'NNP']
+
+word: wants
+tags: nltk: ['VBZ'], stanford: ['NNS', 'VBZ']
+
+word: thou
+tags: nltk: ['NN', 'VB'], stanford: ['PRP']
+
+word: thy
+tags: nltk: ['JJ'], stanford: ['PRPDOLLAR']
+
+word: thee
+tags: nltk: ['NN', 'NNS', 'PDT', 'RB'], stanford: ['PRP']
+
+word: fencing
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: slew
+tags: nltk: ['VBD'], stanford: ['NN']
+
+word: blamed
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: outlaws
+tags: nltk: ['JJ', 'NNS', 'RP'], stanford: ['NNS']
+
+word: awake
+tags: nltk: ['JJ', 'NN', 'RB', 'VBN'], stanford: ['JJ']
+
+word: beams
+tags: nltk: ['NN'], stanford: ['NNS']
+
+word: muffled
+tags: nltk: ['JJ', 'VBD'], stanford: ['JJ', 'VBN']
+
+word: snore
+tags: nltk: ['NN', 'RB', 'VB'], stanford: ['VB', 'VBP']
+
+word: chirping
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: watch
+tags: nltk: ['IN', 'NN', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: fainter
+tags: nltk: ['NN'], stanford: ['JJR']
+
+word: crash
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: thence
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: wading
+tags: nltk: ['JJ', 'VBG'], stanford: ['VBG']
+
+word: fashioned
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ']
+
+word: mile
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: crazy
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: outward
+tags: nltk: ['IN'], stanford: ['RB']
+
+word: topped
+tags: nltk: ['NN'], stanford: ['VBN']
+
+word: worm
+tags: nltk: ['NN', 'SYM'], stanford: ['NN']
+
+word: staggered
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: faint
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: harm
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: yer
+tags: nltk: ['NN'], stanford: ['PRPDOLLAR']
+
+word: tis
+tags: nltk: ['NN', 'NNP'], stanford: ['NNP']
+
+word: breathed
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: swinging
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: lordy
+tags: nltk: ['NN', 'NNP'], stanford: ['JJ', 'NN', 'NNP']
+
+word: budge
+tags: nltk: ['VBP'], stanford: ['VB', 'VBP']
+
+word: rip
+tags: nltk: ['NN', 'VBZ'], stanford: ['NN', 'VBP']
+
+word: kin
+tags: nltk: ['VBD'], stanford: ['NN']
+
+word: sawbones
+tags: nltk: ['NNP'], stanford: ['NNPS']
+
+word: exclaimed
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD']
+
+word: stooping
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: blotted
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: frightened
+tags: nltk: ['JJ', 'VBD'], stanford: ['JJ']
+
+word: forms
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: damn
+tags: nltk: ['NN', 'NNP'], stanford: ['VB']
+
+word: moan
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: dirty
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: sober
+tags: nltk: ['NN', 'RB'], stanford: ['JJ']
+
+word: worse
+tags: nltk: ['JJR', 'NN'], stanford: ['JJR']
+
+word: recollect
+tags: nltk: ['JJ', 'VB'], stanford: ['VB']
+
+word: pon
+tags: nltk: ['IN'], stanford: ['VB']
+
+word: reeling
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: staggering
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: til
+tags: nltk: ['NN'], stanford: ['IN']
+
+word: appealing
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: blubbering
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: yonder
+tags: nltk: ['DT', 'JJR', 'NN', 'RB'], stanford: ['JJ', 'NN']
+
+word: tracks
+tags: nltk: ['NNS'], stanford: ['NNP', 'NNS']
+
+word: stunned
+tags: nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: chicken
+tags: nltk: ['NN', 'VB', 'VBN'], stanford: ['NN']
+
+word: murdered
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: blanketed
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: barking
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: aroused
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: catches
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: exhausted
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: sheltering
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: shadows
+tags: nltk: ['NNS', 'VBZ'], stanford: ['NNS']
+
+word: myself
+tags: nltk: ['NN', 'PRP', 'VB'], stanford: ['PRP']
+
+word: hokey
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: phase
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: mum
+tags: nltk: ['JJ', 'NN', 'VBN'], stanford: ['JJ', 'NN']
+
+word: cuz
+tags: nltk: ['NN'], stanford: ['IN']
+
+word: huff
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: applauded
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: rot
+tags: nltk: ['NN', 'NNP', 'VB', 'VBP'], stanford: ['NN', 'VB', 'VBP']
+
+word: f
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: locked
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: ruined
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: peep
+tags: nltk: ['NN', 'RB', 'VBP'], stanford: ['NN']
+
+word: scared
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ']
+
+word: quaking
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: consound
+tags: nltk: ['NNP', 'VBD'], stanford: ['VB', 'VBD']
+
+word: howling
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: snoring
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: tother
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: lifts
+tags: nltk: ['VBP'], stanford: ['VBZ']
+
+word: snores
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: das
+tags: nltk: ['VB'], stanford: ['VBP', 'VBZ']
+
+word: understanding
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: tip
+tags: nltk: ['VBP'], stanford: ['NN']
+
+word: toed
+tags: nltk: ['NN'], stanford: ['VBN']
+
+word: heavenward
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: whippoorwill
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: spent
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: congratulating
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: awoke
+tags: nltk: ['NN', 'VBD'], stanford: ['VBD']
+
+word: startled
+tags: nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: persecuted
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: table
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: averted
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: sink
+tags: nltk: ['VB', 'VBP'], stanford: ['VB']
+
+word: prompt
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: flogging
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: lingering
+tags: nltk: ['JJ', 'NN', 'VBG'], stanford: ['VBG']
+
+word: holi
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: ransacked
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: captured
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: drifting
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: infernal
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: save
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['VB']
+
+word: faded
+tags: nltk: ['JJ', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: miscreant
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: meddle
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: interesting
+tags: nltk: ['JJ', 'VBG'], stanford: ['JJ']
+
+word: fascinated
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: disappointed
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: nightly
+tags: nltk: ['RB'], stanford: ['JJ', 'RB']
+
+word: torture
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: snatching
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: remedies
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: fangled
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: quack
+tags: nltk: ['NN'], stanford: ['UH']
+
+word: pale
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: disguise
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: notwithstanding
+tags: nltk: ['VBG'], stanford: ['IN']
+
+word: sitz
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: shower
+tags: nltk: ['JJR'], stanford: ['NN']
+
+word: plunges
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: killer
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: pinned
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: teaspoonful
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: quit
+tags: nltk: ['VB', 'VBP'], stanford: ['VB', 'VBD']
+
+word: diminish
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: dosing
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: banging
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: upsetting
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: petrified
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: ails
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: numskull
+tags: nltk: ['VBP'], stanford: ['NN']
+
+word: lighted
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD', 'VBN']
+
+word: yelling
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: whooping
+tags: nltk: ['NN', 'VBG'], stanford: ['JJ', 'NN']
+
+word: forsaken
+tags: nltk: ['NN'], stanford: ['VBN']
+
+word: compact
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: separate
+tags: nltk: ['JJ', 'VB'], stanford: ['JJ']
+
+word: relieved
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: hermit
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: shore
+tags: nltk: ['NN', 'VB', 'VBD'], stanford: ['NN', 'VB']
+
+word: boiled
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: meeting
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: guarded
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: brooding
+tags: nltk: ['NN', 'VBG'], stanford: ['JJ']
+
+word: cured
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: hist
+tags: nltk: ['NNP'], stanford: ['FW']
+
+word: conducting
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: browed
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: folded
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: aye
+tags: nltk: ['NN', 'NNP'], stanford: ['UH']
+
+word: aloft
+tags: nltk: ['NN', 'RB'], stanford: ['RB']
+
+word: stead
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: grounded
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: feasting
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: virgin
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: ruddy
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: varnished
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: festooning
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: cooler
+tags: nltk: ['NN'], stanford: ['JJR']
+
+word: roasting
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: inquired
+tags: nltk: ['JJ'], stanford: ['VBD']
+
+word: gouging
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: weed
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: loaded
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: aloud
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: lest
+tags: nltk: ['JJS'], stanford: ['IN']
+
+word: sweetmeats
+tags: nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: rubbed
+tags: nltk: ['VB'], stanford: ['VBD']
+
+word: obtruded
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: beaded
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: unfolded
+tags: nltk: ['JJ'], stanford: ['VBD']
+
+word: falling
+tags: nltk: ['VBG'], stanford: ['NN', 'VBG']
+
+word: heaving
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: rioting
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: cocked
+tags: nltk: ['VBD'], stanford: ['JJ']
+
+word: chatter
+tags: nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: pierced
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: clattered
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: longing
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: burning
+tags: nltk: ['NNP', 'VBG'], stanford: ['VBG']
+
+word: quicker
+tags: nltk: ['NN'], stanford: ['RBR']
+
+word: gayly
+tags: nltk: ['JJ', 'NN'], stanford: ['RB']
+
+word: brave
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: awed
+tags: nltk: ['JJ', 'VBD'], stanford: ['JJ']
+
+word: hark
+tags: nltk: ['NNP'], stanford: ['VB']
+
+word: peered
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: rowing
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: quicksilver
+tags: nltk: ['RB'], stanford: ['NNP']
+
+word: wherever
+tags: nltk: ['NN', 'NNP', 'RB', 'VBD', 'VBP'], stanford: ['WRB']
+
+word: float
+tags: nltk: ['RB', 'VBP'], stanford: ['VB']
+
+word: revealing
+tags: nltk: ['NN', 'VBG'], stanford: ['JJ', 'VBG']
+
+word: dazzling
+tags: nltk: ['JJ', 'VBG'], stanford: ['JJ']
+
+word: frolic
+tags: nltk: ['JJ', 'NN'], stanford: ['VB']
+
+word: unawares
+tags: nltk: ['NNS'], stanford: ['RB']
+
+word: deepened
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: flickering
+tags: nltk: ['JJ', 'VBG'], stanford: ['VBG']
+
+word: nough
+tags: nltk: ['IN', 'NN', 'RB'], stanford: ['JJ', 'NN']
+
+word: straightway
+tags: nltk: ['RB'], stanford: ['NN', 'RB', 'VBD']
+
+word: shoal
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: halfway
+tags: nltk: ['RB', 'VB'], stanford: ['RB']
+
+word: upstream
+tags: nltk: ['NN', 'RB'], stanford: ['RB']
+
+word: streaming
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: blinking
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: tapped
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: downstream
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: grouped
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: latch
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: harum
+tags: nltk: ['JJ', 'SYM'], stanford: ['NN']
+
+word: giveth
+tags: nltk: ['NN'], stanford: ['VBZ']
+
+word: hath
+tags: nltk: ['NN'], stanford: ['VBD']
+
+word: nobler
+tags: nltk: ['JJ'], stanford: ['JJR']
+
+word: drowning
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: tender
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: trembling
+tags: nltk: ['JJ', 'VBG'], stanford: ['VBG']
+
+word: except
+tags: nltk: ['IN', 'NNP'], stanford: ['IN']
+
+word: graven
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: desert
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: ours
+tags: nltk: ['RB'], stanford: ['PRP']
+
+word: provided
+tags: nltk: ['NNP', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: explore
+tags: nltk: ['VB', 'VBP'], stanford: ['VB']
+
+word: sixty
+tags: nltk: ['NN', 'VB'], stanford: ['CD']
+
+word: prancing
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: gripping
+tags: nltk: ['JJ'], stanford: ['VBG']
+
+word: sputtering
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: sprawl
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: represented
+tags: nltk: ['VBN'], stanford: ['VBD', 'VBN']
+
+word: knucks
+tags: nltk: ['NNS'], stanford: ['FW']
+
+word: ringtaw
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: keeps
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: venture
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: rattles
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: cramp
+tags: nltk: ['NNS'], stanford: ['NN']
+
+word: joining
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: downhearted
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: e
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: scattered
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['JJ', 'VBN']
+
+word: chattering
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: learnt
+tags: nltk: ['NN'], stanford: ['VBN']
+
+word: draws
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: ca
+tags: nltk: ['MD'], stanford: ['MD', 'NN']
+
+word: pirating
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: fleeting
+tags: nltk: ['JJ', 'VBG'], stanford: ['JJ']
+
+word: peal
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: broadcast
+tags: nltk: ['VBP'], stanford: ['VBN']
+
+word: plunging
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: sing
+tags: nltk: ['NN', 'VBG'], stanford: ['VB']
+
+word: blinding
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: deafening
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: roaring
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: lightning
+tags: nltk: ['NN', 'VBG'], stanford: ['NN']
+
+word: splitting
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: appalling
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: culminated
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: weaker
+tags: nltk: ['JJR', 'NN'], stanford: ['JJR']
+
+word: chilled
+tags: nltk: ['VBD'], stanford: ['JJ']
+
+word: upward
+tags: nltk: ['JJ', 'RB'], stanford: ['RB']
+
+word: sheltered
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: glorified
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: jointed
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: striped
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: ambush
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: prouder
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: happier
+tags: nltk: ['JJR', 'NN'], stanford: ['JJR']
+
+word: brag
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: harpers
+tags: nltk: ['NNP'], stanford: ['NNP', 'NNPS']
+
+word: paling
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: toll
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: loitering
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: converse
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: communing
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: graces
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: related
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: deserving
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: transfixed
+tags: nltk: ['NN'], stanford: ['VBN']
+
+word: kisses
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: abashed
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: lavished
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: praise
+tags: nltk: ['NNP'], stanford: ['VB']
+
+word: envying
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: varying
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: invalided
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: amount
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: twould
+tags: nltk: ['MD', 'NNP'], stanford: ['JJ', 'NN', 'VB']
+
+word: grieved
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: prophesying
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: dragging
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: miss
+tags: nltk: ['NNP', 'VB', 'VBP'], stanford: ['NNP', 'VB']
+
+word: crushing
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: merciful
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: rough
+tags: nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: yourselves
+tags: nltk: ['NNS'], stanford: ['NNS', 'PRP']
+
+word: tanned
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: glittering
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: distinguished
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: captures
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: betraying
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: sham
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: wounded
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: exclaiming
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: damaged
+tags: nltk: ['VBN'], stanford: ['JJ', 'VBN']
+
+word: lo
+tags: nltk: ['NN'], stanford: ['NNP']
+
+word: lied
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: thank
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: breach
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: stark
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: flustered
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: skinned
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: unlocked
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: levelled
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: paralyzed
+tags: nltk: ['VBD', 'VBN'], stanford: ['JJ', 'VBD']
+
+word: wasted
+tags: nltk: ['JJ', 'VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: innocent
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: count
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: appeal
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: dismembered
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: shone
+tags: nltk: ['NN'], stanford: ['VBD']
+
+word: pleasanter
+tags: nltk: ['VB'], stanford: ['RBR']
+
+word: exacting
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: eighteen
+tags: nltk: ['NN'], stanford: ['CD']
+
+word: lashing
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: worsted
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: cause
+tags: nltk: ['NN', 'VB', 'VBP'], stanford: ['NN', 'VBP']
+
+word: mellow
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ', 'VBP']
+
+word: pink
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: scarce
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: manufactured
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: inspiring
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: declamatory
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: latin
+tags: nltk: ['NNP'], stanford: ['JJ']
+
+word: labored
+tags: nltk: ['JJ', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: crusades
+tags: nltk: ['NNP'], stanford: ['NNS']
+
+word: contrasted
+tags: nltk: ['NNP'], stanford: ['VBN']
+
+word: nursed
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: petted
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: lug
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: crippled
+tags: nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: glaring
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: walks
+tags: nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: sees
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: fancies
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: glides
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: welcome
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ', 'UH']
+
+word: arrives
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: fairy
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: charming
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: beneath
+tags: nltk: ['NN'], stanford: ['IN']
+
+word: exterior
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: imbittered
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: pleasures
+tags: nltk: ['VBZ'], stanford: ['NNS']
+
+word: peculiarly
+tags: nltk: ['JJ'], stanford: ['RB']
+
+word: afflicting
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: farewell
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: doth
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: wooed
+tags: nltk: ['NN'], stanford: ['VBD']
+
+word: tete
+tags: nltk: ['JJ', 'NN'], stanford: ['FW', 'NN']
+
+word: complexioned
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: revelled
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: mystic
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: thereof
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: transcendent
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: glided
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: contending
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: fondled
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: remade
+tags: nltk: ['VB'], stanford: ['VBD']
+
+word: garret
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: scuttle
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: suspended
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: blaze
+tags: nltk: ['VB'], stanford: ['NN', 'VB']
+
+word: display
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: fourth
+tags: nltk: ['NN', 'NNP'], stanford: ['NNP']
+
+word: fluctuating
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: mend
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: convalescent
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: disgusted
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: diary
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: circusing
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: duller
+tags: nltk: ['NN'], stanford: ['JJR']
+
+word: drearier
+tags: nltk: ['NN'], stanford: ['JJR']
+
+word: voids
+tags: nltk: ['NNS'], stanford: ['NN']
+
+word: ache
+tags: nltk: ['IN'], stanford: ['VB']
+
+word: downtown
+tags: nltk: ['NN', 'VBN'], stanford: ['JJ', 'NN']
+
+word: depressing
+tags: nltk: ['JJ'], stanford: ['JJ', 'VBG']
+
+word: divide
+tags: nltk: ['VB'], stanford: ['VB', 'VBP']
+
+word: halfbreed
+tags: nltk: ['NN', 'VBD'], stanford: ['NN']
+
+word: drownd
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: surer
+tags: nltk: ['JJ'], stanford: ['JJR']
+
+word: loafs
+tags: nltk: ['VB'], stanford: ['VBZ']
+
+word: mended
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: knitted
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: ketch
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: lynch
+tags: nltk: ['VBP'], stanford: ['VB']
+
+word: captive
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: deeper
+tags: nltk: ['JJR', 'NN'], stanford: ['JJR']
+
+word: yourn
+tags: nltk: ['NN', 'VBP'], stanford: ['JJ', 'NN', 'VB']
+
+word: firm
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: fascinating
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: deposed
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: fro
+tags: nltk: ['VB'], stanford: ['RB']
+
+word: reigned
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: blind
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: :]
+tags: nltk: ['NNP'], stanford: ['NFP']
+
+word: seventeenth
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: flitted
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: flowed
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: pent
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: share
+tags: nltk: ['NN'], stanford: ['NN', 'VBP']
+
+word: wring
+tags: nltk: ['VBG'], stanford: ['VB']
+
+word: aweinspiring
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: moused
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: clew
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: lightened
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: raging
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: hides
+tags: nltk: ['VBP'], stanford: ['VBZ']
+
+word: spend
+tags: nltk: ['VBP'], stanford: ['VB']
+
+word: hyro
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: thish
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: comb
+tags: nltk: ['VBP'], stanford: ['NN']
+
+word: whoever
+tags: nltk: ['WDT', 'WP'], stanford: ['WP']
+
+word: tonight
+tags: nltk: ['JJ', 'NN', 'VB'], stanford: ['NN']
+
+word: maow
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['FW', 'NN']
+
+word: commenced
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: hender
+tags: nltk: ['VBP'], stanford: ['VB']
+
+word: crumbled
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: flit
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: lookyhere
+tags: nltk: ['NNP', 'RB'], stanford: ['NN', 'NNP']
+
+word: dreampt
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: rob
+tags: nltk: ['VB', 'VBP'], stanford: ['NN', 'VB']
+
+word: plug
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: nobby
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: quickened
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: alert
+tags: nltk: ['VBP'], stanford: ['NN']
+
+word: tense
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: modified
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: dropping
+tags: nltk: ['VBG'], stanford: ['NN', 'VBG']
+
+word: wrung
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: creak
+tags: nltk: ['NN'], stanford: ['VBP']
+
+word: bowie
+tags: nltk: ['NN', 'SYM'], stanford: ['NN']
+
+word: amongst
+tags: nltk: ['PDT'], stanford: ['IN']
+
+word: ravishing
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: overhead
+tags: nltk: ['NN', 'VBP'], stanford: ['JJ', 'NN']
+
+word: forsook
+tags: nltk: ['NN', 'VBD'], stanford: ['VBD']
+
+word: deepening
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: existed
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: rattle
+tags: nltk: ['JJ'], stanford: ['VBP']
+
+word: nip
+tags: nltk: ['IN'], stanford: ['VB']
+
+word: weaken
+tags: nltk: ['VBP'], stanford: ['VB']
+
+word: whereupon
+tags: nltk: ['IN'], stanford: ['WRB']
+
+word: tuesday
+tags: nltk: ['NNP'], stanford: ['NN', 'NNP']
+
+word: budged
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: sunk
+tags: nltk: ['NN', 'VBN'], stanford: ['VBN']
+
+word: exhausting
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: rollicking
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: mar
+tags: nltk: ['VB'], stanford: ['FW']
+
+word: ice
+tags: nltk: ['VBN'], stanford: ['NN']
+
+word: refreshing
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: scamper
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: romping
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: clamor
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: branched
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: smeared
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: clanging
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: wink
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: shortened
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: slit
+tags: nltk: ['VBP'], stanford: ['VBD']
+
+word: sow
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: tie
+tags: nltk: ['IN'], stanford: ['VB']
+
+word: legged
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: toppling
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: snapped
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: secure
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: stalwart
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: lagging
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: exciting
+tags: nltk: ['JJ', 'VBG'], stanford: ['JJ']
+
+word: pleasantest
+tags: nltk: ['NN'], stanford: ['JJS']
+
+word: blazed
+tags: nltk: ['VBN'], stanford: ['VBD', 'VBN']
+
+word: follered
+tags: nltk: ['NNP', 'VBD'], stanford: ['VBD', 'VBN']
+
+word: upstreet
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: shackly
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: widder
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: protect
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: boring
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: distressed
+tags: nltk: ['JJ', 'VBN'], stanford: ['JJ']
+
+word: irritated
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: goodmorning
+tags: nltk: ['NNP', 'VBG'], stanford: ['NNP']
+
+word: stayed
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBD']
+
+word: paler
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: blurted
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: wringing
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: manned
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: puts
+tags: nltk: ['VBZ'], stanford: ['NNS']
+
+word: flitting
+tags: nltk: ['JJ', 'VBG'], stanford: ['VBG']
+
+word: soiled
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: glimmer
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: echoing
+tags: nltk: ['JJ', 'VBG'], stanford: ['VBG']
+
+word: sickening
+tags: nltk: ['VBG'], stanford: ['JJ']
+
+word: wildeyed
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: dubbed
+tags: nltk: ['VBP'], stanford: ['VBN']
+
+word: frolicking
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: frescoed
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: bewitching
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: north
+tags: nltk: ['JJ'], stanford: ['NNP', 'RB']
+
+word: east
+tags: nltk: ['JJS'], stanford: ['RB']
+
+word: whichever
+tags: nltk: ['VB'], stanford: ['WDT']
+
+word: mixed
+tags: nltk: ['JJ'], stanford: ['JJ', 'VBN']
+
+word: sheer
+tags: nltk: ['NN'], stanford: ['JJ', 'NN']
+
+word: random
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: fatigue
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: farther
+tags: nltk: ['JJ', 'NN'], stanford: ['RB', 'RBR']
+
+word: smooth
+tags: nltk: ['RBR'], stanford: ['JJ']
+
+word: grownup
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: paled
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: hers
+tags: nltk: ['NNS'], stanford: ['PRP']
+
+word: melt
+tags: nltk: ['VBD'], stanford: ['VB']
+
+word: sinking
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: woe
+tags: nltk: ['SYM'], stanford: ['NN']
+
+word: march
+tags: nltk: ['NN'], stanford: ['NN', 'VB']
+
+word: huzzah
+tags: nltk: ['NN'], stanford: ['JJ', 'NN']
+
+word: auditory
+tags: nltk: ['NN'], stanford: ['JJ']
+
+word: aboard
+tags: nltk: ['RP'], stanford: ['RB']
+
+word: clews
+tags: nltk: ['NN'], stanford: ['NNS']
+
+word: sheathed
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: damage
+tags: nltk: ['NN', 'NNP', 'VBP'], stanford: ['NN', 'NNP']
+
+word: stalactite
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: wherein
+tags: nltk: ['NN'], stanford: ['WRB']
+
+word: dessertspoonful
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: stares
+tags: nltk: ['VBZ'], stanford: ['NNS']
+
+word: rival
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: wail
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: implore
+tags: nltk: ['RB'], stanford: ['VB']
+
+word: permanently
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: impaired
+tags: nltk: ['VBN'], stanford: ['JJ']
+
+word: waylay
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: spliced
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: poke
+tags: nltk: ['VBD'], stanford: ['VB']
+
+word: givings
+tags: nltk: ['NNS'], stanford: ['NNP']
+
+word: ourselves
+tags: nltk: ['NNS'], stanford: ['PRP']
+
+word: sets
+tags: nltk: ['VBZ'], stanford: ['NNS']
+
+word: winding
+tags: nltk: ['NN'], stanford: ['VBG']
+
+word: rubbish
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: robbing
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: haul
+tags: nltk: ['VBD'], stanford: ['VB']
+
+word: rogerses
+tags: nltk: ['NNP'], stanford: ['NNPS']
+
+word: fit
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: slope
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: overheard
+tags: nltk: ['VBP'], stanford: ['VBD']
+
+word: praised
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: gloated
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: commonplace
+tags: nltk: ['JJ', 'NN'], stanford: ['JJ']
+
+word: combed
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: smothers
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: roll
+tags: nltk: ['VBP'], stanford: ['NN']
+
+word: anywher
+tags: nltk: ['RB'], stanford: ['NN']
+
+word: chaw
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: eats
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: looky
+tags: nltk: ['NNP'], stanford: ['RB']
+
+word: worry
+tags: nltk: ['NN'], stanford: ['VB']
+
+word: mph
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: b
+tags: nltk: ['NN', 'NNP', 'VB'], stanford: ['LS']
+
+word: cuss
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: chopped
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: swearing
+tags: nltk: ['VBG'], stanford: ['NN']
+
+word: lonesomest
+tags: nltk: ['JJS'], stanford: ['NN']
+
+word: awfulest
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: ripped
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: endeth
+tags: nltk: ['RB'], stanford: ['JJ']
+
+word: *****
+tags: nltk: ['NN'], stanford: ['SYM']
+
+word: associated
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: /
+tags: nltk: ['FW', 'JJ', 'NN', 'NNP'], stanford: ['COMMA', 'HYPH']
+
+word: distributing
+tags: nltk: ['NN', 'VBG'], stanford: ['VBG']
+
+word: tm
+tags: nltk: ['JJ', 'NN'], stanford: ['NN']
+
+word: registered
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: printed
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: 1
+tags: nltk: ['CD'], stanford: ['CD', 'LS']
+
+word: refund
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: c
+tags: nltk: ['JJ', 'NNP', 'NNS'], stanford: ['LS', 'NN']
+
+word: pglaf
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: attached
+tags: nltk: ['JJ'], stanford: ['VBN']
+
+word: copied
+tags: nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: binary
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: donate
+tags: nltk: ['NN', 'VB'], stanford: ['VB']
+
+word: defect
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: proofread
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: limited
+tags: nltk: ['JJ', 'NNP'], stanford: ['JJ', 'NNP', 'VBN']
+
+word: damages
+tags: nltk: ['NNP', 'NNS'], stanford: ['NNS']
+
+word: f3
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: direct
+tags: nltk: ['NNP'], stanford: ['JJ']
+
+word: implied
+tags: nltk: ['JJ', 'NNP'], stanford: ['VBN']
+
+word: indemnity
+tags: nltk: ['NNP'], stanford: ['NN']
+
+word: deductible
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: email
+tags: nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: survive
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: licensed
+tags: nltk: ['VBD'], stanford: ['JJ']
+

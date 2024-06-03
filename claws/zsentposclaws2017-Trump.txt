@@ -1,0 +1,180 @@
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    0   28 Chief Justice Roberts , President Carter , President Clinton , President Bush , President Obama , fellow Americans , and people of the world : Thank you .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    0   28 Chief_JJ/84 Justice_NN1/78 Roberts_NP1 ,_COMMA President_NNB Carter_NP1 ,_COMMA President_NNB Clinton_NP1 ,_COMMA President_NNB Bush_NP1 ,_COMMA President_NNB Obama_NP1 ,_COMMA fellow_JJ/88 Americans_NN2 ,_COMMA and_CC people_NN of_IO the_AT world_NN1 :_COLON Thank_VV0 you_PPY ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    1   29 We , the citizens of America , are now joined in a great national effort to rebuild our country and restore its promise for all of our people .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    1   29 We_PPIS2 ,_COMMA the_AT citizens_NN2 of_IO America_NP1 ,_COMMA are_VBR now_RT/100 joined_VVN/57 in_II/90 a_AT1 great_JJ/100 national_JJ/99 effort_NN1 to_TO rebuild_VVI our_APPGE country_NN1 and_CC restore_VVI its_APPGE promise_NN1/100 for_IF/100 all_DB/100 of_IO our_APPGE people_NN ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    2   20 Together , we will determine the course of America and the world for many , many years to come .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    2   20 Together_RL ,_COMMA we_PPIS2 will_VM/100 determine_VVI the_AT course_NN1/100 of_IO America_NP1 and_CC the_AT world_NN1 for_IF/100 many_DA2 ,_COMMA many_DA2 years_NNT2 to_TO come_VVI ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    3   18 We will face challenges , we will confront hardships , but we will get the job done .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    3   18 We_PPIS2 will_VM/100 face_VVI challenges_NN2/100 ,_COMMA we_PPIS2 will_VM/100 confront_VVI hardships_NN2 ,_COMMA but_CCB we_PPIS2 will_VM/100 get_VVI the_AT job_NN1 done_VDN ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    4   40 Every 4 years , we gather on these steps to carry out the orderly and peaceful transfer of power , and we are grateful to President Obama and First Lady Michelle Obama for their gracious aid throughout this transition .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    4   40 Every_AT1 4_MC years_NNT2 ,_COMMA we_PPIS2 gather_VV0/100 on_II/87 these_DD2 steps_NN2/100 to_TO carry_VVI out_RP/99 the_AT orderly_JJ/84 and_CC peaceful_JJ transfer_NN1/100 of_IO power_NN1/100 ,_COMMA and_CC we_PPIS2 are_VBR grateful_JJ to_II/100 President_NNB Obama_NP1 and_CC First_MD Lady_NNB Michelle_NP1 Obama_NP1/94 for_IF/100 their_APPGE gracious_JJ aid_NN1/100 throughout_II/99 this_DD1/100 transition_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    5    5 They have been magnificent .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    5    5 They_PPHS2 have_VH0 been_VBN magnificent_JJ ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    6    3 Thank you .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    6    3 Thank_VV0 you_PPY ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    7   11 Today 's ceremony , however , has very special meaning .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    7   11 Today_RT 's_GE/100 ceremony_NN1 ,_COMMA however_RR ,_COMMA has_VHZ very_RG special_JJ/100 meaning_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    8   40 Because today we are not merely transferring power from one administration to another or from one party to another , but we are transferring power from Washington , DC , and giving it back to you , the people .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    8   40 Because_CS today_RT we_PPIS2 are_VBR not_XX merely_RR transferring_VVG power_NN1/100 from_II one_MC1 administration_NN1 to_II/100 another_DD1 or_CC from_II one_MC1 party_NN1/100 to_II/100 another_DD1 ,_COMMA but_CCB we_PPIS2 are_VBR transferring_VVG power_NN1/100 from_II Washington_NP1 ,_COMMA DC_NP1/98 ,_COMMA and_CC giving_VVG/100 it_PPH1 back_RP/100 to_II/99 you_PPY ,_COMMA the_AT people_NN ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A    9   26 For too long , a small group in our Nation 's Capital has reaped the rewards of Government while the people have borne the cost .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B    9   26 For_IF/99 too_RG/100 long_RR/76 ,_COMMA a_AT1 small_JJ/100 group_NN1/100 in_II/99 our_APPGE Nation_NN1 's_GE Capital_NN1/99 has_VHZ reaped_VVN the_AT rewards_NN2/100 of_IO Government_NN1 while_CS/100 the_AT people_NN have_VH0 borne_VVN/100 the_AT cost_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   10   13 Washington flourished , but the people did not share in its wealth .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   10   13 Washington_NP1 flourished_VVD ,_COMMA but_CCB the_AT people_NN did_VDD not_XX share_VVI in_II/84 its_APPGE wealth_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   11   13 Politicians prospered , but the jobs left , and the factories closed .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   11   13 Politicians_NN2 prospered_VVD/93 ,_COMMA but_CCB the_AT jobs_NN2 left_VVD/53 ,_COMMA and_CC the_AT factories_NN2 closed_VVD/64 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   12   13 The establishment protected itself , but not the citizens of our country .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   12   13 The_AT establishment_NN1 protected_VVN/54 itself_PPX1 ,_COMMA but_CCB not_XX the_AT citizens_NN2 of_IO our_APPGE country_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   13   39 Their victories have not been your victories ; their triumphs have not been your triumphs ; and while they celebrated in our Nation 's Capital , there was little to celebrate for struggling families all across our land .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   13   39 Their_APPGE victories_NN2 have_VH0 not_XX been_VBN your_APPGE victories_NN2 ;_SEMICOLON their_APPGE triumphs_NN2/100 have_VH0 not_XX been_VBN your_APPGE triumphs_NN2/100 ;_SEMICOLON and_CC while_CS/100 they_PPHS2 celebrated_VVD/98 in_II/84 our_APPGE Nation_NN1 's_GE Capital_NN1/95 ,_COMMA there_EX/99 was_VBDZ little_JJ to_TO/90 celebrate_VVI for_IF/100 struggling_JJ/64 families_NN2 all_DB/55 across_II/99 our_APPGE land_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   14   23 That all changes , starting right here and right now , because this moment is your moment : It belongs to you .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   14   23 That_DD1/83 all_DB/100 changes_NN2/99 ,_COMMA starting_VVG/98 right_RR/75 here_RL and_CC right_RR/67 now_RT/100 ,_COMMA because_CS this_DD1/100 moment_NN1 is_VBZ your_APPGE moment_NN1 :_COLON It_PPH1/100 belongs_VVZ to_II/94 you_PPY ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   15   14 It belongs to everyone gathered here today and everyone watching all across America .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   15   14 It_PPH1/100 belongs_VVZ to_II/100 everyone_PN1 gathered_VVD/66 here_RL today_RT and_CC everyone_PN1 watching_VVG/100 all_DB/83 across_II/100 America_NP1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   16    5 This is your day .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   16    5 This_DD1/100 is_VBZ your_APPGE day_NNT1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   17    5 This is your celebration .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   17    5 This_DD1/100 is_VBZ your_APPGE celebration_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   18   13 And this , the United States of America , is your country .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   18   13 And_CC this_DD1/100 ,_COMMA the_AT United_NP1 States_NP1 of_IO America_NP1 ,_COMMA is_VBZ your_APPGE country_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   19   21 What truly matters is not which party controls our Government , but whether our Government is controlled by the people .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   19   21 What_DDQ truly_RR matters_NN2/55 is_VBZ not_XX which_DDQ party_NN1/100 controls_VVZ/99 our_APPGE Government_NN1 ,_COMMA but_CCB whether_CSW our_APPGE Government_NN1 is_VBZ controlled_VVN by_II/100 the_AT people_NN ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   20   21 January 20 , 2017 , will be remembered as the day the people became the rulers of this Nation again .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   20   21 January_NPM1 20_MC ,_COMMA 2017_MC ,_COMMA will_VM/100 be_VBI remembered_VVN/100 as_II/87 the_AT day_NNT1 the_AT people_NN became_VVD the_AT rulers_NN2 of_IO this_DD1/100 Nation_NN1 again_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   21   14 The forgotten men and women of our country will be forgotten no longer .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   21   14 The_AT forgotten_JJ@/100 men_NN2 and_CC women_NN2 of_IO our_APPGE country_NN1 will_VM/100 be_VBI forgotten_VVN/100 no_RR21 longer_RR22 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   22    7 Everyone is listening to you now .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   22    7 Everyone_PN1 is_VBZ listening_VVG/86 to_II/97 you_PPY now_RT/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   23   25 You came by the tens of millions to become part of a historic movement the likes of which the world has never seen before .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   23   25 You_PPY came_VVD by_II/99 the_AT tens_MC2 of_IO millions_NNO2 to_TO become_VVI part_NN1/100 of_IO a_AT1 historic_JJ movement_NN1 the_AT likes_NN2/100 of_IO which_DDQ the_AT world_NN1 has_VHZ never_RR seen_VVN before_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   24   20 At the center of this movement is a crucial conviction : that a nation exists to serve its citizens .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   24   20 At_II the_AT center_NN1/100 of_IO this_DD1/100 movement_NN1 is_VBZ a_AT1 crucial_JJ conviction_NN1 :_COLON that_CST/99 a_AT1 nation_NN1 exists_VVZ to_TO serve_VVI its_APPGE citizens_NN2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   25   20 Americans want great schools for their children , safe neighborhoods for their families , and good jobs for themselves .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   25   20 Americans_NN2 want_VV0/100 great_JJ/100 schools_NN2/100 for_IF/100 their_APPGE children_NN2 ,_COMMA safe_JJ/99 neighborhoods_NN2 for_IF/100 their_APPGE families_NN2 ,_COMMA and_CC good_JJ/100 jobs_NN2 for_IF/100 themselves_PPX2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   26   14 These are just and reasonable demands of righteous people and a righteous public .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   26   14 These_DD2 are_VBR just_RR/88 and_CC reasonable_JJ/100 demands_NN2/100 of_IO righteous_JJ people_NN and_CC a_AT1 righteous_JJ public_NN1/91 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   27   82 But for too many of our citizens , a different reality exists : Mothers and children trapped in poverty in our inner cities ; rusted-out factories scattered like tombstones across the landscape of our Nation ; an education system , flush with cash , but which leaves our young and beautiful students deprived of all knowledge ; and the crime and the gangs and the drugs that have stolen too many lives and robbed our country of so much unrealized potential .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   27   82 But_II21/57 for_II22/57 too_RG/100 many_DA2 of_IO our_APPGE citizens_NN2 ,_COMMA a_AT1 different_JJ reality_NN1 exists_VVZ :_COLON Mothers_NN2 and_CC children_NN2 trapped_VVN/65 in_II/95 poverty_NN1 in_II/99 our_APPGE inner_JJ cities_NN2 ;_SEMICOLON rusted-out_JJ factories_NN2 scattered_VVN/93 like_II/95 tombstones_NN2 across_II/100 the_AT landscape_NN1/100 of_IO our_APPGE Nation_NN1 ;_SEMICOLON an_AT1 education_NN1 system_NN1 ,_COMMA flush_RR/44 with_IW cash_NN1/100 ,_COMMA but_CCB which_DDQ leaves_VVZ/100 our_APPGE young_JJ and_CC beautiful_JJ students_NN2 deprived_VVN/58 of_IO all_DB/100 knowledge_NN1 ;_SEMICOLON and_CC the_AT crime_NN1 and_CC the_AT gangs_NN2/100 and_CC the_AT drugs_NN2 that_CST/99 have_VH0 stolen_VVN/100 too_RG/100 many_DA2 lives_NN2/100 and_CC robbed_VVN our_APPGE country_NN1 of_IO so_RG/99 much_DA1/88 unrealized_JJ potential_NN1/89 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   28   11 This American carnage stops right here and stops right now .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   28   11 This_DD1/99 American_JJ carnage_NN1 stops_VVZ/98 right_RR/84 here_RL and_CC stops_VVZ/97 right_RR/83 now_RT/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   29   26 We are one Nation , and their pain is our pain , their dreams are our dreams , and their success will be our success .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   29   26 We_PPIS2 are_VBR one_MC1 Nation_NN1 ,_COMMA and_CC their_APPGE pain_NN1/100 is_VBZ our_APPGE pain_NN1/100 ,_COMMA their_APPGE dreams_NN2 are_VBR our_APPGE dreams_NN2 ,_COMMA and_CC their_APPGE success_NN1 will_VM/100 be_VBI our_APPGE success_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   30   13 We share one heart , one home , and one glorious destiny .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   30   13 We_PPIS2 share_VV0/100 one_MC1 heart_NN1 ,_COMMA one_PN1/59 home_RL/66 ,_COMMA and_CC one_MC1 glorious_JJ destiny_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   31   16 The oath of office I take today is an oath of allegiance to all Americans .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   31   16 The_AT oath_NN1 of_IO office_NN1 I_PPIS1/100 take_VV0/100 today_RT is_VBZ an_AT1 oath_NN1 of_IO allegiance_NN1 to_II/100 all_DB/100 Americans_NN2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   32   33 For many decades , we 've enriched foreign industry at the expense of American industry , subsidized the armies of other countries while allowing for the very sad depletion of our military .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   32   33 For_IF/99 many_DA2 decades_NNT2 ,_COMMA we_PPIS2 've_VH0 enriched_VVN foreign_JJ industry_NN1 at_II the_AT expense_NN1 of_IO American_JJ industry_NN1 ,_COMMA subsidized_VVD/99 the_AT armies_NN2 of_IO other_JJ/98 countries_NN2 while_CS/99 allowing_VVG for_IF/100 the_AT very_RG sad_JJ depletion_NN1 of_IO our_APPGE military_JJ/67 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   33   32 We 've defended other nations ' borders while refusing to defend our own and spent trillions and trillions of dollars overseas while America 's infrastructure has fallen into disrepair and decay .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   33   32 We_PPIS2 've_VH0 defended_VVN other_JJ/99 nations_NN2 '_GE borders_NN2 while_CS/99 refusing_VVG to_TO defend_VVI our_APPGE own_DA and_CC spent_VVD/81 trillions_NNO2 and_CC trillions_NNO2 of_IO dollars_NNU2 overseas_RL/96 while_CS/100 America_NP1 's_GE infrastructure_NN1 has_VHZ fallen_VVN/100 into_II disrepair_NN1/100 and_CC decay_NN1/62 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   34   23 We 've made other countries rich while the wealth , strength , and confidence of our country has dissipated over the horizon .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   34   23 We_PPIS2 've_VH0 made_VVN other_JJ/99 countries_NN2 rich_JJ while_CS/97 the_AT wealth_NN1 ,_COMMA strength_NN1 ,_COMMA and_CC confidence_NN1 of_IO our_APPGE country_NN1 has_VHZ dissipated_VVN over_II/80 the_AT horizon_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   35   30 One by one , the factories shuttered and left our shores , with not even a thought about the millions and millions of American workers that were left behind .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   35   30 One_MC1 by_II one_MC1 ,_COMMA the_AT factories_NN2 shuttered_JJ and_CC left_VVD/91 our_APPGE shores_NN2 ,_COMMA with_IW not_XX even_RR/100 a_AT1 thought_NN1/100 about_II the_AT millions_NNO2 and_CC millions_NNO2 of_IO American_JJ workers_NN2 that_CST/99 were_VBDR left_VVN/99 behind_RL@/91 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   36   20 The wealth of our middle class has been ripped from their homes and then redistributed all across the world .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   36   20 The_AT wealth_NN1 of_IO our_APPGE middle_JJ class_NN1 has_VHZ been_VBN ripped_VVN/100 from_II their_APPGE homes_NN2/100 and_CC then_RT/100 redistributed_VVD/96 all_DB/67 across_II/99 the_AT world_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   37    6 But that is the past .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   37    6 But_CCB that_DD1/100 is_VBZ the_AT past_NN1/78 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   38   10 And now we are looking only to the future .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   38   10 And_CC now_RT/99 we_PPIS2 are_VBR looking_VVG/100 only_RR to_II/100 the_AT future_NN1/78 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   39   30 We , assembled here today , are issuing a new decree to be heard in every city , in every foreign capital , and in every hall of power .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   39   30 We_PPIS2 ,_COMMA assembled_VVD/58 here_RL today_RT ,_COMMA are_VBR issuing_VVG/100 a_AT1 new_JJ decree_NN1/95 to_TO be_VBI heard_VVN/100 in_II/95 every_AT1 city_NN1 ,_COMMA in_II/99 every_AT1 foreign_JJ capital_NN1/99 ,_COMMA and_CC in_II/97 every_AT1 hall_NN1 of_IO power_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   40   13 From this day forward , a new vision will govern our land .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   40   13 From_II this_DD1/100 day_NNT1 forward_RL/97 ,_COMMA a_AT1 new_JJ vision_NN1 will_VM/100 govern_VVI our_APPGE land_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   41   15 From this this day forward , it 's going to be only America first .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   41   15 From_II this_DD1/98 this_DD1/100 day_NNT1 forward_RL/97 ,_COMMA it_PPH1 's_VBZ going_VVGK to_TO be_VBI only_JJ/68 America_NP1 first_MD ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   42    3 America first .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   42    3 America_NP1 first_MD ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   43   26 Every decision on trade , on taxes , on immigration , on foreign affairs , will be made to benefit American workers and American families .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   43   26 Every_AT1 decision_NN1 on_II/99 trade_NN1/100 ,_COMMA on_II/99 taxes_NN2/100 ,_COMMA on_II/99 immigration_NN1 ,_COMMA on_II/99 foreign_JJ affairs_NN2 ,_COMMA will_VM/100 be_VBI made_VVN/100 to_TO benefit_VVI American_JJ workers_NN2 and_CC American_JJ families_NN2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   44   24 We must protect our borders from the ravages of other countries making our products , stealing our companies , and destroying our jobs .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   44   24 We_PPIS2 must_VM protect_VVI our_APPGE borders_NN2 from_II the_AT ravages_NN2/100 of_IO other_JJ/98 countries_NN2 making_VVG/100 our_APPGE products_NN2 ,_COMMA stealing_VVG/100 our_APPGE companies_NN2 ,_COMMA and_CC destroying_VVG/100 our_APPGE jobs_NN2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   45    9 Protection will lead to great prosperity and strength .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   45    9 Protection_NN1 will_VM/100 lead_VVI to_II/99 great_JJ/100 prosperity_NN1 and_CC strength_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   46   22 I will fight for you with every breath in my body , and I will never , ever let you down .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   46   22 I_PPIS1/100 will_VM/100 fight_VVI for_IF/97 you_PPY with_IW every_AT1 breath_NN1/100 in_II/99 my_APPGE body_NN1 ,_COMMA and_CC I_PPIS1/100 will_VM/100 never_RR ,_COMMA ever_RR let_VV0/99 you_PPY down_RP/95 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   47   11 America will start winning again , winning like never before .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   47   11 America_NP1 will_VM/100 start_VVI winning_VVG/93 again_RT ,_COMMA winning_VVG/99 like_II/93 never_RR before_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   48    7 We will bring back our jobs .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   48    7 We_PPIS2 will_VM/100 bring_VVI back_RP our_APPGE jobs_NN2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   49    7 We will bring back our borders .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   49    7 We_PPIS2 will_VM/100 bring_VVI back_RP our_APPGE borders_NN2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   50    7 We will bring back our wealth .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   50    7 We_PPIS2 will_VM/100 bring_VVI back_RP our_APPGE wealth_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   51    8 And we will bring back our dreams .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   51    8 And_CC we_PPIS2 will_VM/100 bring_VVI back_RP our_APPGE dreams_NN2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   52   21 We will build new roads and highways and bridges and airports and tunnels and railways all across our wonderful Nation .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   52   21 We_PPIS2 will_VM/100 build_VVI new_JJ roads_NN2 and_CC highways_NN2 and_CC bridges_NN2/100 and_CC airports_NN2 and_CC tunnels_NN2 and_CC railways_NN2 all_DB/55 across_II/99 our_APPGE wonderful_JJ Nation_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   53   23 We will get our people off of welfare and back to work , rebuilding our country with American hands and American labor .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   53   23 We_PPIS2 will_VM/100 get_VVI our_APPGE people_NN off_II21 of_II22 welfare_NN1 and_CC back_RP/45 to_II/53 work_NN1/53 ,_COMMA rebuilding_VVG/100 our_APPGE country_NN1 with_IW American_JJ hands_NN2/100 and_CC American_JJ labor_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   54   13 We will follow two simple rules : Buy American and hire American .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   54   13 We_PPIS2 will_VM/100 follow_VVI two_MC simple_JJ rules_NN2/100 :_COLON Buy_VV0 American_JJ/92 and_CC hire_VV0/83 American_JJ/77 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   55   36 We will seek friendship and good will with the nations of the world , but we do so with the understanding that it is the right of all nations to put their own interests first .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   55   36 We_PPIS2 will_VM/100 seek_VVI friendship_NN1 and_CC good_JJ/100 will_NN1@/100 with_IW the_AT nations_NN2 of_IO the_AT world_NN1 ,_COMMA but_CCB we_PPIS2 do_VD0 so_RR/100 with_IW the_AT understanding_NN1/97 that_CST/100 it_PPH1 is_VBZ the_AT right_NN1/95 of_IO all_DB/100 nations_NN2 to_TO put_VVI their_APPGE own_DA interests_NN2 first_MD ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   56   28 We do not seek to impose our way of life on anyone , but rather to let it shine as an examplewe will shinefor everyone to follow .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   56   28 We_PPIS2 do_VD0 not_XX seek_VVI to_TO impose_VVI our_APPGE way_NN1/100 of_IO life_NN1 on_II/99 anyone_PN1 ,_COMMA but_CCB rather_RR@/100 to_TO let_VVI it_PPH1 shine_VVI as_II/89 an_AT1 examplewe_JJ/86 will_NN1@/97 shinefor_NN1 everyone_PN1 to_TO follow_VVI ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   57   31 We will reinforce old alliances and form new ones and unite the civilized world against radical Islamic terrorism , which we will eradicate completely from the face of the Earth .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   57   31 We_PPIS2 will_VM/100 reinforce_VVI old_JJ alliances_NN2 and_CC form_VVI new_JJ ones_NN2 and_CC unite_VV0 the_AT civilized_JJ/100 world_NN1 against_II radical_JJ/92 Islamic_JJ terrorism_NN1 ,_COMMA which_DDQ we_PPIS2 will_VM/100 eradicate_VVI completely_RR from_II the_AT face_NN1/100 of_IO the_AT Earth_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   58   35 At the bedrock of our politics will be a total allegiance to the United States of America , and through our loyalty to our country , we will rediscover our loyalty to each other .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   58   35 At_II the_AT bedrock_NN1 of_IO our_APPGE politics_NN1 will_VM/100 be_VBI a_AT1 total_JJ/92 allegiance_NN1 to_II/100 the_AT United_NP1 States_NP1 of_IO America_NP1 ,_COMMA and_CC through_II/97 our_APPGE loyalty_NN1 to_II/100 our_APPGE country_NN1 ,_COMMA we_PPIS2 will_VM/100 rediscover_VVI our_APPGE loyalty_NN1 to_II/100 each_PPX221 other_PPX222 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   59   15 When you open your heart to patriotism , there is no room for prejudice .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   59   15 When_CS/77 you_PPY open_VV0/100 your_APPGE heart_NN1 to_II/99 patriotism_NN1 ,_COMMA there_EX/99 is_VBZ no_AT/100 room_NN1/100 for_IF/100 prejudice_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   60   22 The Bible tells us , " How good and pleasant it is when God 's people live together in unity . "
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   60   22 The_AT Bible_NN1 tells_VVZ us_PPIO2 ,_COMMA "_QUOTE How_RRQ/70 good_JJ/99 and_CC pleasant_JJ it_PPH1 is_VBZ when_RRQ/89 God_NP1/99 's_GE people_NN live_VV0/98 together_RL in_II/100 unity_NN1 ._PERIOD "_QUOTE
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   61   17 We must speak our minds openly , debate our disagreements honestly , but always pursue solidarity .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   61   17 We_PPIS2 must_VM speak_VVI our_APPGE minds_NN2/100 openly_RR ,_COMMA debate_VV0@/89 our_APPGE disagreements_NN2 honestly_RR ,_COMMA but_CCB always_RR pursue_VV0 solidarity_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   62   10 When America is united , America is totally unstoppable .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   62   10 When_CS America_NP1 is_VBZ united_VVN/77 ,_COMMA America_NP1 is_VBZ totally_RR unstoppable_JJ ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   63   17 There should be no fear : We are protected , and we will always be protected .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   63   17 There_EX/99 should_VM be_VBI no_AT/98 fear_NN1/98 :_COLON We_PPIS2 are_VBR protected_VVN/79 ,_COMMA and_CC we_PPIS2 will_VM/100 always_RR be_VBI protected_VVN/95 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   64   28 We will be protected by the great men and women of our military and law enforcement , and most importantly , we will be protected by God .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   64   28 We_PPIS2 will_VM/100 be_VBI protected_VVN by_II/100 the_AT great_JJ/100 men_NN2 and_CC women_NN2 of_IO our_APPGE military_JJ/79 and_CC law_NN1 enforcement_NN1 ,_COMMA and_CC most_RGT/100 importantly_RR ,_COMMA we_PPIS2 will_VM/100 be_VBI protected_VVN by_II/100 God_NP1/95 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   65   11 Finally , we must think big and dream even bigger .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   65   11 Finally_RR ,_COMMA we_PPIS2 must_VM think_VVI big_JJ/100 and_CC dream_VVI even_RR/100 bigger_JJR ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   66   18 In America , we understand that a nation is only living as long as it is striving .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   66   18 In_II/100 America_NP1 ,_COMMA we_PPIS2 understand_VV0 that_CST/100 a_AT1 nation_NN1 is_VBZ only_JJ/47 living_NN1/42 as_CS31/100 long_CS32/100 as_CS33/100 it_PPH1 is_VBZ striving_VVG/91 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   67   24 We will no longer accept politicians who are all talk and no action , constantly complaining , but never doing anything about it .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   67   24 We_PPIS2 will_VM no_RR%/90 longer_RRR/100 accept_VVI politicians_NN2 who_PNQS are_VBR all_DB/87 talk_VV0/57 and_CC no_AT/99 action_NN1/100 ,_COMMA constantly_RR complaining_VVG/99 ,_COMMA but_CCB never_RR doing_VDG anything_PN1 about_II/99 it_PPH1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   68    8 The time for empty talk is over .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   68    8 The_AT time_NNT1/100 for_IF/100 empty_JJ/100 talk_NN1/100 is_VBZ over_RP/96 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   69    7 Now arrives the hour of action .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   69    7 Now_RT/100 arrives_VVZ the_AT hour_NNT1 of_IO action_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   70   14 Do not allow anyone to tell you that it can not be done .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   70   14 Do_VD0 not_XX allow_VVI anyone_PN1 to_TO tell_VVI you_PPY that_CST/100 it_PPH1 can_VM not_XX be_VBI done_VDN ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   71   13 No challenge can match the heart and fight and spirit of America .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   71   13 No_AT/87 challenge_NN1/97 can_VM/100 match_VVI the_AT heart_NN1 and_CC fight_NN1/57 and_CC spirit_NN1/100 of_IO America_NP1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   72    5 We will not fail .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   72    5 We_PPIS2 will_VM/100 not_XX fail_VVI ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   73    8 Our country will thrive and prosper again .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   73    8 Our_APPGE country_NN1 will_VM/100 thrive_VVI and_CC prosper_VVI again_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   74   41 We stand at the birth of a new millennium , ready to unlock the mysteries of space , to free the Earth from the miseries of disease , and to harness the energies , industries , and technologies of tomorrow .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   74   41 We_PPIS2 stand_VV0/100 at_II the_AT birth_NN1 of_IO a_AT1 new_JJ millennium_NNT1 ,_COMMA ready_JJ/85 to_TO unlock_VVI the_AT mysteries_NN2 of_IO space_NN1/100 ,_COMMA to_TO free_VVI the_AT Earth_NN1 from_II the_AT miseries_NN2 of_IO disease_NN1 ,_COMMA and_CC to_TO harness_VVI the_AT energies_NN2 ,_COMMA industries_NN2 ,_COMMA and_CC technologies_NN2 of_IO tomorrow_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   75   18 A new national pride will stir our souls , lift our sights , and heal our divisions .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   75   18 A_AT1/80 new_JJ national_JJ/99 pride_NN1/100 will_VM/100 stir_VVI our_APPGE souls_NN2 ,_COMMA lift_VV0/99 our_APPGE sights_NN2/100 ,_COMMA and_CC heal_VV0/99 our_APPGE divisions_NN2 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   76   52 It 's time to remember that old wisdom our soldiers will never forget : that whether we are Black or Brown or White , we all bleed the same red blood of patriots , we all enjoy the same glorious freedoms , and we all salute the same great American flag .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   76   52 It_PPH1/100 's_VBZ time_NNT1/100 to_TO remember_VVI that_DD1/58 old_JJ wisdom_NN1 our_APPGE soldiers_NN2/100 will_VM/100 never_RR forget_VVI :_COLON that_DD1/89 whether_CSW we_PPIS2 are_VBR Black_JJ/99 or_CC Brown_NP1/93 or_CC White_NP1/74 ,_COMMA we_PPIS2 all_DB/93 bleed_VV0 the_AT same_DA red_JJ/81 blood_NN1/100 of_IO patriots_NN2 ,_COMMA we_PPIS2 all_DB/93 enjoy_VV0 the_AT same_DA glorious_JJ freedoms_NN2 ,_COMMA and_CC we_PPIS2 all_DB/93 salute_VV0/99 the_AT same_DA great_JJ/100 American_JJ flag_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   77   52 And whether a child is born in the urban sprawl of Detroit or the windswept plains of Nebraska , they look up at the same night sky , they fill their heart with the same dreams , and they are infused with the breath of life by the same almighty Creator .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   77   52 And_CC whether_CSW a_AT1 child_NN1 is_VBZ born_VVN/100 in_II/98 the_AT urban_JJ sprawl_NN1/100 of_IO Detroit_NP1 or_CC the_AT windswept_JJ plains_NN2 of_IO Nebraska_NP1 ,_COMMA they_PPHS2 look_VV0/100 up_RP/100 at_II the_AT same_DA night_NNT1 sky_NN1/100 ,_COMMA they_PPHS2 fill_VV0/100 their_APPGE heart_NN1 with_IW the_AT same_DA dreams_NN2 ,_COMMA and_CC they_PPHS2 are_VBR infused_VVN/100 with_IW the_AT breath_NN1/100 of_IO life_NN1 by_II/100 the_AT same_DA almighty_JJ Creator_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   78   36 So to all Americans in every city near and far , small and large , from mountain to mountain , from ocean to ocean , hear these words : You will never be ignored again .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   78   36 So_RR to_II/100 all_DB/100 Americans_NN2 in_II/99 every_AT1 city_NN1 near_RL/92 and_CC far_RR/73 ,_COMMA small_JJ/98 and_CC large_JJ ,_COMMA from_II mountain_NN1 to_II mountain_NN1 ,_COMMA from_II ocean_NN1 to_II ocean_NN1 ,_COMMA hear_VV0 these_DD2 words_NN2/100 :_COLON You_PPY will_VM/100 never_RR be_VBI ignored_VVN/100 again_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   79   15 Your voice , your hopes , and your dreams will define our American destiny .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   79   15 Your_APPGE voice_NN1/100 ,_COMMA your_APPGE hopes_NN2/100 ,_COMMA and_CC your_APPGE dreams_NN2 will_VM/100 define_VVI our_APPGE American_JJ destiny_NN1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   80   15 And your courage and goodness and love will forever guide us along the way .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   80   15 And_CC your_APPGE courage_NN1 and_CC goodness_NN1 and_CC love_NN1/88 will_VM/98 forever_RT guide_VVI us_PPIO2 along_II/66 the_AT way_NN1/100 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   81    9 Together , we will make America strong again .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   81    9 Together_RL ,_COMMA we_PPIS2 will_VM/100 make_VVI America_NP1 strong_JJ/94 again_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   82    7 We will make America wealthy again .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   82    7 We_PPIS2 will_VM/100 make_VVI America_NP1 wealthy_JJ again_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   83    7 We will make America proud again .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   83    7 We_PPIS2 will_VM/100 make_VVI America_NP1 proud_JJ/93 again_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   84    7 We will make America safe again .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   84    7 We_PPIS2 will_VM/100 make_VVI America_NP1 safe_JJ/64 again_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   85   13 And , yes , together , we will make America great again .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   85   13 And_CC ,_COMMA yes_UH ,_COMMA together_RL ,_COMMA we_PPIS2 will_VM/100 make_VVI America_NP1 great_JJ/93 again_RT ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   86    3 Thank you .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   86    3 Thank_VV0 you_PPY ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   87    9 God bless you , and God bless America .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   87    9 God_NP1 bless_VV0 you_PPY ,_COMMA and_CC God_NP1/97 bless_VV0 America_NP1 ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   88    3 Thank you .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   88    3 Thank_VV0 you_PPY ._PERIOD
+SENTPOS claws2017-Trump.txt.c7 CLAWS A   89    4 God bless America .
+SENTPOS claws2017-Trump.txt.c7 CLAWS B   89    4 God_NP1 bless_VV0 America_NP1 ._PERIOD

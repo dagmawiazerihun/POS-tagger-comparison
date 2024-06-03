@@ -1,0 +1,216 @@
+word: americans
+tags: claws: ['NNS'], nltk: ['NNPS'], stanford: ['NNPS']
+
+word: thank
+tags: claws: ['VB'], nltk: ['NN', 'NNP'], stanford: ['VBP']
+
+word: nation
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN', 'NNP']
+
+word: government
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NN']
+
+word: united
+tags: claws: ['NNP'], nltk: ['JJ', 'NNP'], stanford: ['NNP', 'VBN']
+
+word: states
+tags: claws: ['NNP'], nltk: ['NNPS'], stanford: ['NNP']
+
+word: robbed
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBD']
+
+word: american
+tags: claws: ['JJ'], nltk: ['JJ', 'NNP'], stanford: ['JJ']
+
+word: dreams
+tags: claws: ['NNS'], nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: enriched
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBN']
+
+word: defended
+tags: claws: ['VBN'], nltk: ['VBD'], stanford: ['VBN']
+
+word: made
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBN']
+
+word: rich
+tags: claws: ['JJ'], nltk: ['VBP'], stanford: ['JJ']
+
+word: shuttered
+tags: claws: ['JJ'], nltk: ['VBD'], stanford: ['VBN']
+
+word: 's
+tags: claws: ['VBZ'], stanford: ['POS', 'VBZ']
+
+word: protection
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: islamic
+tags: claws: ['JJ'], nltk: ['NNP'], stanford: ['JJ']
+
+word: earth
+tags: claws: ['NN'], nltk: ['NN', 'NNP'], stanford: ['NNP']
+
+word: politics
+tags: claws: ['NN'], nltk: ['NNS'], stanford: ['NNS']
+
+word: bible
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NNP']
+
+word: protected
+tags: claws: ['VBN'], nltk: ['VBD', 'VBN'], stanford: ['VBD', 'VBN']
+
+word: understand
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: bleed
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: enjoy
+tags: claws: ['VB'], nltk: ['VBP'], stanford: ['VBP']
+
+word: almighty
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: creator
+tags: claws: ['NN'], nltk: ['NNP'], stanford: ['NN']
+
+word: mountain
+tags: claws: ['NN'], nltk: ['NN', 'VB'], stanford: ['NN']
+
+word: ocean
+tags: claws: ['NN'], nltk: ['JJ', 'VB'], stanford: ['NN']
+
+word: wealthy
+tags: claws: ['JJ'], nltk: ['NN'], stanford: ['JJ']
+
+word: bless
+tags: claws: ['VB'], nltk: ['NN'], stanford: ['VBP']
+
+word: chief
+tags: nltk: ['JJ'], stanford: ['NNP']
+
+word: to
+tags: nltk: ['TO'], stanford: ['IN', 'TO']
+
+word: all
+tags: nltk: ['DT'], stanford: ['DT', 'RB']
+
+word: out
+tags: nltk: ['IN', 'RP'], stanford: ['RP']
+
+word: '
+tags: nltk: ['POS', 'QUOTE'], stanford: ['POS']
+
+word: back
+tags: nltk: ['RB', 'RP'], stanford: ['RB']
+
+word: long
+tags: nltk: ['RB'], stanford: ['JJ', 'RB']
+
+word: capital
+tags: nltk: ['NN'], stanford: ['NN', 'NNP']
+
+word: share
+tags: nltk: ['NN'], stanford: ['VB', 'VBP']
+
+word: prospered
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: triumphs
+tags: nltk: ['NN', 'NNS'], stanford: ['NNS']
+
+word: there
+tags: nltk: ['EX'], stanford: ['EX', 'RB']
+
+word: that
+tags: nltk: ['DT', 'IN', 'WDT'], stanford: ['DT', 'IN', 'RB', 'WDT']
+
+word: gathered
+tags: nltk: ['VBN'], stanford: ['VBD']
+
+word: what
+tags: nltk: ['WP'], stanford: ['WDT']
+
+word: truly
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: matters
+tags: nltk: ['NNS'], stanford: ['VBZ']
+
+word: forgotten
+tags: nltk: ['JJ', 'VBN'], stanford: ['VBN']
+
+word: longer
+tags: nltk: ['RBR'], stanford: ['RB', 'RBR']
+
+word: before
+tags: nltk: ['IN', 'RB'], stanford: ['RB']
+
+word: exists
+tags: nltk: ['NNS', 'VBZ'], stanford: ['VBZ']
+
+word: good
+tags: nltk: ['JJ'], stanford: ['JJ', 'NN']
+
+word: -
+tags: nltk: ['HYPHEN'], stanford: ['HYPH']
+
+word: stops
+tags: nltk: ['NNS', 'VB'], stanford: ['VBZ']
+
+word: subsidized
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: military
+tags: nltk: ['JJ'], stanford: ['NN']
+
+word: spent
+tags: nltk: ['JJ'], stanford: ['VBD']
+
+word: behind
+tags: nltk: ['NN'], stanford: ['RB']
+
+word: assembled
+tags: nltk: ['VBD'], stanford: ['VBN']
+
+word: do
+tags: nltk: ['VB', 'VBP'], stanford: ['VBP']
+
+word: —
+tags: nltk: ['NN', 'NNP'], stanford: ['HYPH']
+
+word: how
+tags: nltk: ['NNP'], stanford: ['WRB']
+
+word: most
+tags: nltk: ['JJS'], stanford: ['RBS']
+
+word: accept
+tags: nltk: ['JJ'], stanford: ['VB']
+
+word: harness
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: black
+tags: nltk: ['NNP'], stanford: ['JJ']
+
+word: brown
+tags: nltk: ['NNP'], stanford: ['JJ']
+
+word: white
+tags: nltk: ['NNP'], stanford: ['JJ']
+
+word: near
+tags: nltk: ['IN'], stanford: ['RB']
+
+word: love
+tags: nltk: ['VB'], stanford: ['NN']
+
+word: forever
+tags: nltk: ['VB'], stanford: ['RB']
+
+word: proud
+tags: nltk: ['NN'], stanford: ['JJ']
+
